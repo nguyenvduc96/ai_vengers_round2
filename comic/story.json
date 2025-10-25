@@ -1,0 +1,183 @@
+{
+    "thinking": "The user wants a 9-page comic book about online scam awareness for Vietnamese teenagers. The story needs to be engaging, educational, and visually appealing in a modern Vietnamese comic style. I will create a story with two main characters, a boy named Minh who is a bit naive and gets scammed, and a smart, tech-savvy girl named An who helps him and educates him about online safety. The story will cover two common scams: cheap game top-ups and fake prize winnings. The final page will be a summary of safety tips. The cover will be designed to be eye-catching, while the internal pages will be in black and white as requested.",
+    "title": "Sập Bẫy Online: Cẩm Nang An Toàn Cho Teen",
+    "content": "The story follows two high school students, Minh and An. Minh, an avid gamer, falls for a scam offering cheap game credits and loses his account. His wise friend, An, helps him understand the red flags he missed. She then uses another common scam—a fake prize pop-up—to teach him about the dangers of phishing and data theft. Having learned a valuable lesson, they decide to share their experience to help their friends stay safe online. The comic concludes with a handy guide to internet safety.",
+    "style": "Modern Vietnamese comic style, clean lines, expressive characters, dynamic panel layouts. Black and white for interior pages.",
+    "characters": [
+        {
+            "name": "Minh",
+            "description": "A 16-year-old male high school student. Energetic, impulsive, and passionate about online gaming. He has spiky black hair and expressive eyes. His style is casual and trendy, often seen in a graphic t-shirt, a hoodie, and sneakers. He is prone to excitement and can be a bit naive about online dangers."
+        },
+        {
+            "name": "An",
+            "description": "A 16-year-old female high school student, Minh's classmate and friend. Intelligent, calm, and tech-savvy. She has long, straight black hair and wears stylish glasses. Her fashion is neat and modern, such as a smart blouse paired with jeans. She acts as the voice of reason and is knowledgeable about cybersecurity."
+        }
+    ],
+    "pages": [
+        {
+            "page_number": 1,
+            "panels": [
+                {
+                    "panel_number": 1,
+                    "image_prompt": "Comic book cover. Title: 'Sập Bẫy Online: Cẩm Nang An Toàn Cho Teen'. Main characters Minh and An are back-to-back in the center, looking confident and determined. Minh holds a smartphone displaying a glowing game controller icon. An holds a smartphone with a shining shield icon. The background is a dynamic digital cyberspace with streams of binary code, pop-up windows with warning symbols (padlocks, exclamation marks), and faint outlines of phishing hooks. Modern Vietnamese comic style, vibrant colors, impactful typography for the title.",
+                    "image_ratio": "3:4",
+                    "dialogue": ""
+                }
+            ]
+        },
+        {
+            "page_number": 2,
+            "panels": [
+                {
+                    "panel_number": 1,
+                    "image_prompt": "High-angle shot. Minh is sitting at his computer desk, intensely focused on a fantasy RPG game on his screen. He's wearing headphones and leaning forward, mashing his keyboard. The room is slightly messy with comic books and snack wrappers. Black and white, modern comic style.",
+                    "image_ratio": "4:3",
+                    "dialogue": "Minh (thinking): Sắp thắng rồi! Cố lên nào! (Almost won! Let's go!)"
+                },
+                {
+                    "panel_number": 2,
+                    "image_prompt": "Close-up on Minh's excited face, illuminated by the computer screen. A bright pop-up advertisement appears on the edge of the screen, reading 'NẠP GAME GIÁ RẺ - KHUYẾN MÃI 80%'. His eyes widen in surprise and greed. Black and white.",
+                    "image_ratio": "1:1",
+                    "dialogue": "Minh: Hả?! Khuyến mãi 80%? Thật không trời!"
+                },
+                {
+                    "panel_number": 3,
+                    "image_prompt": "An leans into the frame from behind Minh's chair, looking skeptically at the screen. She points a finger at the ad, her expression filled with doubt. Minh is already excitedly clicking on the ad, ignoring her. Black and white comic style.",
+                    "image_ratio": "4:3",
+                    "dialogue": "An: Khoan đã Minh! Trông đáng ngờ lắm..."
+                }
+            ]
+        },
+        {
+            "page_number": 3,
+            "panels": [
+                {
+                    "panel_number": 1,
+                    "image_prompt": "Split panel. On the left, a close-up of Minh's fingers typing rapidly on his phone, chatting with the scammer. On the right, the chat interface shows his message: 'Em muốn nạp gói 500k ạ!'. Black and white.",
+                    "image_ratio": "16:9",
+                    "dialogue": "Minh (chat): Em muốn nạp gói 500k ạ!"
+                },
+                {
+                    "panel_number": 2,
+                    "image_prompt": "The scammer's reply on the phone screen. The profile picture is a generic, untrustworthy-looking logo. The message bubble is overly friendly and urgent. Black and white.",
+                    "image_ratio": "3:4",
+                    "dialogue": "Scammer (chat): Chào em! Em chỉ cần gửi tụi anh tên đăng nhập, mật khẩu và mã thẻ cào điện thoại là được nạp ngay nhé!"
+                },
+                {
+                    "panel_number": 3,
+                    "image_prompt": "Medium shot from the side. Minh is holding his phone, looking convinced. An stands beside him with her arms crossed, looking very concerned and trying to reason with him. Black and white comic style.",
+                    "image_ratio": "1:1",
+                    "dialogue": "An: Đừng! Sao lại phải đưa mật khẩu chứ? Lừa đảo đó! \nMinh: Có sao đâu! Nhanh mà, người ta đang khuyến mãi."
+                }
+            ]
+        },
+        {
+            "page_number": 4,
+            "panels": [
+                {
+                    "panel_number": 1,
+                    "image_prompt": "Close-up on Minh's phone screen as he types in his password and sends a photo of a phone card scratch code. His thumb hovers over the 'send' button. Black and white.",
+                    "image_ratio": "1:1",
+                    "dialogue": ""
+                },
+                {
+                    "panel_number": 2,
+                    "image_prompt": "A sinister panel showing a shadowy, hooded figure hunched over a laptop in a dark room. A wicked grin is visible on their face as they see Minh's information pop up on their screen. Black and white, high contrast.",
+                    "image_ratio": "4:3",
+                    "dialogue": ""
+                },
+                {
+                    "panel_number": 3,
+                    "image_prompt": "Minh is now trying to log back into his game. The screen shows a bold, red error message: 'SAI TÊN ĐĂNG NHẬP HOẶC MẬT KHẨU'. A bead of sweat rolls down his forehead. Black and white.",
+                    "image_ratio": "4:3",
+                    "dialogue": "Minh: Ơ... Sao kỳ vậy?"
+                }
+            ]
+        },
+        {
+            "page_number": 5,
+            "panels": [
+                {
+                    "panel_number": 1,
+                    "image_prompt": "Wide shot. Minh has slumped over his desk, head in his hands, looking utterly defeated. His phone lies on the desk showing the chat window where the scammer has now blocked him. An stands beside him, placing a comforting hand on his shoulder. Black and white.",
+                    "image_ratio": "16:9",
+                    "dialogue": "Minh: Mất hết rồi An ơi... Mất cả tài khoản game rồi..."
+                },
+                {
+                    "panel_number": 2,
+                    "image_prompt": "Close-up on An's face. She looks serious and empathetic. She's pointing out the red flags from the earlier interaction. Small inset icons next to her could show a padlock with a cross, a fake-looking logo, and a password field. Black and white.",
+                    "image_ratio": "1:1",
+                    "dialogue": "An: Tớ đã bảo mà. Cậu thấy không? Trang không chính thức, đòi hỏi mật khẩu, hình thức thanh toán mập mờ... Toàn là dấu hiệu lừa đảo cả."
+                }
+            ]
+        },
+        {
+            "page_number": 6,
+            "panels": [
+                {
+                    "panel_number": 1,
+                    "image_prompt": "An is now showing Minh her laptop screen. A flashy, colorful pop-up ad covers half the screen, proclaiming 'BẠN ĐÃ TRÚNG THƯỞNG IPHONE 15! NHẬN NGAY!'. Minh looks intrigued again. Black and white comic style.",
+                    "image_ratio": "4:3",
+                    "dialogue": "An: Đây, lại một kiểu khác này. Cậu có tin là tớ trúng thưởng thật không?"
+                },
+                {
+                    "panel_number": 2,
+                    "image_prompt": "An clicks the ad, and it leads to a fake-looking form. The camera is focused on the form fields asking for 'Họ và Tên', 'Số Điện Thoại', 'Địa chỉ', and 'Số CMND/CCCD'. Black and white.",
+                    "image_ratio": "1:1",
+                    "dialogue": "An: Nhìn xem, để 'nhận giải', họ yêu cầu mình điền đủ thứ thông tin cá nhân."
+                },
+                {
+                    "panel_number": 3,
+                    "image_prompt": "Another field appears at the bottom of the form asking for credit card information to pay a small 'phí vận chuyển' (shipping fee). An points at this field with a knowing, serious look towards Minh. Black and white.",
+                    "image_ratio": "4:3",
+                    "dialogue": "An: Và nguy hiểm nhất là đây. Chúng dụ mình trả một khoản phí nhỏ để lấy cắp thông tin tài khoản ngân hàng."
+                }
+            ]
+        },
+        {
+            "page_number": 7,
+            "panels": [
+                {
+                    "panel_number": 1,
+                    "image_prompt": "A symbolic, impactful panel. A monstrous figure made of jigsaw puzzle pieces (each piece representing a piece of data like name, phone number, ID card, bank details) looms menacingly behind a scared-looking Minh. An stands protectively in front of him. Black and white.",
+                    "image_ratio": "3:4",
+                    "dialogue": "An: Một khi có được những thông tin này, kẻ xấu có thể làm rất nhiều việc, từ mạo danh cậu để lừa người thân, đến đánh cắp tiền trong tài khoản."
+                },
+                {
+                    "panel_number": 2,
+                    "image_prompt": "Close-up on Minh's face. He looks horrified and enlightened, a light bulb moment happening as he finally understands the full scope of the danger. Black and white comic style.",
+                    "image_ratio": "1:1",
+                    "dialogue": "Minh: Trời ơi... Nguy hiểm thật!"
+                }
+            ]
+        },
+        {
+            "page_number": 8,
+            "panels": [
+                {
+                    "panel_number": 1,
+                    "image_prompt": "Minh and An are sitting together, looking determined. On the laptop screen, they are on a 'Report' page for the scammer's profile. Minh is confidently clicking the 'Submit Report' button. Black and white.",
+                    "image_ratio": "4:3",
+                    "dialogue": "Minh: Phải báo cáo trang lừa đảo này ngay để không ai bị lừa như tớ nữa."
+                },
+                {
+                    "panel_number": 2,
+                    "image_prompt": "Final panel of the story. Minh and An are in the schoolyard, talking to a small group of their friends. They are animatedly sharing their story, with Minh looking embarrassed but resolute, and An looking supportive. Their friends listen intently. The mood is positive and proactive. Black and white comic style.",
+                    "image_ratio": "16:9",
+                    "dialogue": "An: Mọi người hãy cẩn thận nhé! Trên mạng có rất nhiều cạm bẫy đó! \nMinh: Đúng vậy! Đừng để bị lừa một cách ngớ ngẩn như tớ!"
+                }
+            ]
+        },
+        {
+            "page_number": 9,
+            "panels": [
+                {
+                    "panel_number": 1,
+                    "image_prompt": "Infographic style page. Title at the top: 'BÍ KÍP VÀNG: 4 KHÔNG TRÊN KHÔNG GIAN MẠNG'. Below are four sections, each with a cheerful icon and a drawing of either Minh or An. 1) An pointing to a checklist icon: 'KHÔNG vội tin vào quà tặng, khuyến mãi giá trị lớn.' 2) Minh holding a shield icon: 'KHÔNG cung cấp thông tin cá nhân, mật khẩu, mã OTP cho người lạ.' 3) An holding a magnifying glass over a link: 'KHÔNG bấm vào các đường link lạ, không rõ nguồn gốc.' 4) Minh giving a thumbs-down to a transaction: 'KHÔNG thực hiện giao dịch khi chưa xác minh kỹ thông tin.' Black and white, clear and easy-to-read layout.",
+                    "image_ratio": "3:4",
+                    "dialogue": ""
+                }
+            ]
+        }
+    ]
+}
