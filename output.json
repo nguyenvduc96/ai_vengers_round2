@@ -1,0 +1,451 @@
+{
+    "comic_info": {
+      "title": "Cạm Bẫy Vô Hình",
+      "subtitle": "Đừng để tiền mất, tật mang!",
+      "genre": "Edutainment/Slice of Life",
+      "target_audience": "Học sinh Trung học Cơ sở và Trung học Phổ thông (11-18 tuổi)",
+      "tone": "Giáo dục, Cảnh báo, Trao quyền, Gần gũi",
+      "art_style": "Modern Manga",
+      "total_pages": 7,
+      "aspect_ratio": "2:3",
+      "story_language": "Vietnamese",
+      "cultural_setting": "Vietnamese"
+    },
+    "story_overview": {
+      "theme": "Nâng cao nhận thức về các hình thức lừa đảo trực tuyến phổ biến nhắm vào giới trẻ và trang bị cho các em kiến thức để tự bảo vệ mình trên không gian mạng.",
+      "setting": {
+        "time_period": "Hiện đại",
+        "location": "Một thành phố lớn tại Việt Nam (ví dụ: Thành phố Hồ Chí Minh)",
+        "world_description": "Câu chuyện diễn ra trong bối cảnh cuộc sống thường ngày của học sinh Việt Nam, từ trường học, quán cà phê, đến không gian riêng tư trong phòng ngủ, nơi họ tương tác nhiều nhất với thế giới ảo.",
+        "cultural_context": "Phản ánh thói quen sử dụng mạng xã hội (Facebook, Zalo), chơi game online, và sử dụng ví điện tử (Momo) của giới trẻ Việt Nam. Các chi tiết như đồng phục học sinh, món ăn vặt, ngôn ngữ tuổi teen sẽ được lồng ghép để tạo sự gần gũi."
+      },
+      "summary": "An, một nam sinh cấp 3 đam mê game, nhận được một lời mời hấp dẫn để nhận vật phẩm hiếm. Bị lòng tham che mờ, cậu đã cung cấp thông tin tài khoản và mã OTP cho kẻ lừa đảo qua một trang web giả mạo. Sau khi mất tài khoản game và một khoản tiền tiết kiệm của mẹ, An suy sụp nhưng được bạn thân, Mai, và gia đình giúp đỡ. Cậu học được bài học đắt giá về bảo mật thông tin và cùng Mai lan tỏa thông điệp cảnh giác đến các bạn học sinh khác.",
+      "story_outline": [
+        {
+          "pages": "1-2",
+          "phase": "Setup",
+          "description": "Giới thiệu nhân vật chính An và niềm đam mê game của cậu. Một tin nhắn lừa đảo hấp dẫn xuất hiện, hứa hẹn một vật phẩm game quý hiếm, khơi dậy lòng tham của An."
+        },
+        {
+          "pages": "3-4",
+          "phase": "Development",
+          "description": "An bỏ qua những nghi ngờ và làm theo hướng dẫn của kẻ lừa đảo, điền thông tin cá nhân và mã OTP vào một trang web giả. Sự phấn khích ban đầu nhanh chóng chuyển thành lo lắng khi có sự cố xảy ra."
+        },
+        {
+          "pages": "5-6",
+          "phase": "Climax",
+          "description": "An phát hiện tài khoản game và tiền trong ví điện tử của mẹ đã bị đánh cắp. Cậu hoảng loạn và suy sụp. Người bạn thân Mai phát hiện ra sự việc và thuyết phục An nói sự thật với gia đình."
+        },
+        {
+          "pages": "7",
+          "phase": "Resolution",
+          "description": "An thú nhận với gia đình và nhận được sự thông cảm. Cậu và Mai quyết định biến trải nghiệm tồi tệ này thành một hành động tích cực bằng cách tạo ra một tấm áp phích cảnh báo để nâng cao nhận thức cho các học sinh khác trong trường."
+        }
+      ],
+      "key_plot_points": [
+        "An nhận được tin nhắn lừa đảo về vật phẩm game hiếm.",
+        "An cung cấp thông tin cá nhân và mã OTP, dẫn đến việc mất tài khoản và tiền.",
+        "An và Mai biến trải nghiệm tồi tệ thành một hành động tích cực, cảnh báo cho bạn bè."
+      ],
+      "emotional_journey": "Từ háo hức và hy vọng, chuyển sang lo lắng, hoảng sợ và hối hận, cuối cùng là sự can đảm, được an ủi và quyết tâm hành động để bảo vệ người khác.",
+      "cultural_elements": "Sử dụng các ứng dụng nhắn tin phổ biến ở Việt Nam (Zalo, Messenger), các ví điện tử (Momo, ZaloPay), đồng phục học sinh đặc trưng, các câu nói/tiếng lóng của giới trẻ Việt Nam."
+    },
+    "characters": [
+      {
+        "id": 1,
+        "name": "Lê Minh An",
+        "name_pronunciation": "Le Min An",
+        "role": "Protagonist",
+        "age": "16",
+        "gender": "Nam",
+        "nationality": "Việt Nam",
+        "cultural_background": "Một học sinh lớp 10 sống cùng gia đình tại một thành phố lớn. Cậu là con một, được bố mẹ khá cưng chiều nhưng cũng rất tin tưởng.",
+        "personality_traits": [
+          "Đam mê game",
+          "Hơi cả tin",
+          "Hướng nội"
+        ],
+        "appears_on_pages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ],
+        "physical_appearance": {
+          "height_build": "Cao trung bình, dáng người hơi gầy",
+          "hair_color": "Đen",
+          "hair_style": "Tóc cắt ngắn, hơi rối một cách tự nhiên, có mái chéo",
+          "hair_length": "Ngắn",
+          "eye_color": "Nâu đậm",
+          "eye_shape": "Mắt một mí hoặc mí lót, đặc trưng của người Đông Á",
+          "skin_tone": "Vàng sáng",
+          "distinctive_features": "Đeo kính cận gọng đen",
+          "facial_features": "Khuôn mặt trái xoan, mũi thẳng, lông mày rậm vừa phải"
+        },
+        "clothing": {
+          "top": "Ở trường: áo sơ mi trắng đồng phục có phù hiệu. Ở nhà: áo thun in hình nhân vật game.",
+          "bottom": "Quần tây xanh đậm đồng phục hoặc quần short jean ở nhà.",
+          "footwear": "Giày sandal hoặc giày thể thao.",
+          "outerwear": "Không có",
+          "accessories": "Tai nghe gaming thường đeo trên cổ khi ở nhà.",
+          "color_scheme": {
+            "primary": "Xanh dương",
+            "secondary": "Xám",
+            "accent": "Cam"
+          },
+          "style": "Năng động, đơn giản, đậm chất game thủ"
+        },
+        "personality": {
+          "default_expression": "Tập trung, hơi trầm tư",
+          "body_language": "Thường hơi khom lưng khi ngồi chơi game, hay gãi đầu khi bối rối.",
+          "speaking_style": "Nhanh và hào hứng khi nói về game, hơi ngập ngừng khi nói chuyện khác."
+        },
+        "motivation": {
+          "primary_goal": "Trở thành một game thủ giỏi và sở hữu những vật phẩm hiếm trong game yêu thích của mình.",
+          "internal_conflict": "Sự cả tin và mong muốn 'đi đường tắt' để đạt được mục tiêu mâu thuẫn với những lời dặn dò của bố mẹ về sự cẩn trọng."
+        },
+        "backstory": "An lớn lên cùng với công nghệ và game online là niềm đam mê lớn nhất. Cậu đã dành nhiều thời gian và tiền tiết kiệm để xây dựng tài khoản game của mình, coi đó là một phần quan trọng trong cuộc sống xã hội của mình.",
+        "reference_prompt": {
+          "references_needed": [],
+          "prompt": "Create a detailed character reference sheet for \"Lê Minh An\" of Vietnamese ethnicity for comic book use.\n\nCHARACTER IDENTITY:\n- Display character name as text in image: \"Lê Minh An\"\n- Role: Protagonist\n- Nationality/Ethnicity: Vietnamese\n\nMAIN VIEW - Full body standing neutral pose:\n- Height/Build: Average height, slightly slim build\n- Skin tone: Light tan/olive\n- Hair: Black, short and naturally messy style with side-swept bangs\n- Eyes: Dark brown, monolid or tapered eyelids\n- Facial features: Oval face, straight nose, medium-thick eyebrows. Authentically Vietnamese features.\n- Expression: Neutral/thoughtful\n- Distinctive features: Wears black-rimmed glasses\n\nClothing:\n- Top: Simple t-shirt with a video game character print\n- Bottom: Jean shorts\n- Footwear: Sneakers\n- Accessories: A gaming headset worn around his neck\n- Colors: Blue, gray, and orange color scheme\n- Style: Casual, simple, gamer style\n\nADDITIONAL VIEWS:\n- Close-up face (front view): Detailed facial features\n- Close-up face (3/4 view): Alternative angle\n- Expression samples: Excited, Worried, Devastated, Determined\n\nCULTURAL DETAILS:\n- Ensure physical features are representative of modern Vietnamese youth.\n\nSTYLE:\n- Art style: Modern Manga\n- Line quality: Clean, consistent lines\n- Color: Full color with shading\n- Background: White or transparent\n- Name label: \"Lê Minh An\"\n\nCRITICAL REQUIREMENTS:\n- Character must appear authentically as Vietnamese\n- Physical features accurate to ethnicity\n- Clothing reflects a typical modern Vietnamese teenager's style\n- Include character name as visible text\n- Maintain consistency across all views\n- Cultural elements respectful and accurate"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Trần Ngọc Mai",
+        "name_pronunciation": "Chran Ngoc My",
+        "role": "Supporting, The Voice of Reason",
+        "age": "16",
+        "gender": "Nữ",
+        "nationality": "Việt Nam",
+        "cultural_background": "Bạn thân cùng lớp với An. Mai là một học sinh chăm chỉ, am hiểu công nghệ và thường xuyên cập nhật tin tức xã hội.",
+        "personality_traits": [
+          "Thông minh",
+          "Quan tâm",
+          "Cẩn thận",
+          "Thẳng thắn"
+        ],
+        "appears_on_pages": [
+          5,
+          6,
+          7
+        ],
+        "physical_appearance": {
+          "height_build": "Cao ráo, dáng người thanh mảnh",
+          "hair_color": "Đen nhánh",
+          "hair_style": "Tóc dài thẳng, buộc đuôi ngựa cao khi đi học",
+          "hair_length": "Dài ngang lưng",
+          "eye_color": "Nâu đậm",
+          "eye_shape": "Mắt hai mí to tròn",
+          "skin_tone": "Trắng hồng",
+          "distinctive_features": "Nụ cười rạng rỡ, có lúm đồng tiền nhỏ",
+          "facial_features": "Khuôn mặt V-line nhẹ nhàng, sống mũi cao, môi mỏng"
+        },
+        "clothing": {
+          "top": "Áo sơ mi trắng đồng phục học sinh Việt Nam, có thắt nơ đỏ.",
+          "bottom": "Chân váy xếp ly màu xanh đậm.",
+          "footwear": "Giày búp bê hoặc sneaker trắng.",
+          "outerwear": "Không có",
+          "accessories": "Một chiếc vòng tay bạc đơn giản, ba lô đi học màu pastel.",
+          "color_scheme": {
+            "primary": "Hồng pastel",
+            "secondary": "Trắng",
+            "accent": "Xanh bạc hà"
+          },
+          "style": "Nữ tính, hiện đại, gọn gàng"
+        },
+        "personality": {
+          "default_expression": "Tươi tắn, thông minh",
+          "body_language": "Tự tin, thẳng lưng, hay khoanh tay khi suy nghĩ.",
+          "speaking_style": "Rõ ràng, mạch lạc, có lý lẽ."
+        },
+        "motivation": {
+          "primary_goal": "Giúp đỡ bạn bè và muốn mọi người xung quanh mình được an toàn, đặc biệt là trên không gian mạng.",
+          "internal_conflict": "Đôi khi sự thẳng thắn của cô có thể làm người khác khó chịu, cô phải học cách khuyên bảo một cách khéo léo."
+        },
+        "backstory": "Mai sớm tiếp xúc với máy tính nhờ bố là kỹ sư phần mềm. Cô được dạy về an toàn mạng từ nhỏ và có ý thức rất cao về việc bảo vệ thông tin cá nhân.",
+        "reference_prompt": {
+          "references_needed": [],
+          "prompt": "Create a detailed character reference sheet for \"Trần Ngọc Mai\" of Vietnamese ethnicity for comic book use.\n\nCHARACTER IDENTITY:\n- Display character name as text in image: \"Trần Ngọc Mai\"\n- Role: Supporting\n- Nationality/Ethnicity: Vietnamese\n\nMAIN VIEW - Full body standing neutral pose:\n- Height/Build: Tall, slender build\n- Skin tone: Fair with pink undertones\n- Hair: Jet black, long and straight, mid-back length\n- Eyes: Dark brown, large, round double eyelids\n- Facial features: Soft V-line face, high nose bridge, thin lips. Authentically Vietnamese features.\n- Expression: Bright, intelligent, friendly\n- Distinctive features: A bright smile with a small dimple\n\nClothing:\n- Top: Vietnamese school uniform - white blouse with a red bow tie\n- Bottom: Dark blue pleated skirt\n- Footwear: White sneakers\n- Accessories: A simple silver bracelet and a pastel-colored backpack\n- Colors: Pastel pink, white, and mint green color scheme\n- Style: Feminine, modern, neat\n\nADDITIONAL VIEWS:\n- Close-up face (front view): Detailed facial features\n- Close-up face (3/4 view): Alternative angle\n- Expression samples: Happy, Concerned, Serious, Encouraging\n\nCULTURAL DETAILS:\n- The school uniform should be recognizable as a modern Vietnamese style.\n\nSTYLE:\n- Art style: Modern Manga\n- Line quality: Clean, consistent lines\n- Color: Full color with shading\n- Background: White or transparent\n- Name label: \"Trần Ngọc Mai\"\n\nCRITICAL REQUIREMENTS:\n- Character must appear authentically as Vietnamese\n- Physical features accurate to ethnicity\n- Clothing reflects a typical modern Vietnamese student's uniform\n- Include character name as visible text\n- Maintain consistency across all views\n- Cultural elements respectful and accurate"
+        }
+      }
+    ],
+    "cover": {
+      "title": "Cạm Bẫy Vô Hình",
+      "visual_hook": "An ở phía trước, vẻ mặt hoảng hốt nhìn vào điện thoại. Phía sau cậu, một bóng đen trùm đầu với đôi mắt kỹ thuật số phát sáng hiện ra, những cánh tay của nó như những xúc tu kỹ thuật số vươn ra từ màn hình điện thoại về phía An.",
+      "characters_on_cover": [
+        "Lê Minh An",
+        "Trần Ngọc Mai"
+      ],
+      "cover_prompt": {
+        "references_needed": [
+          "Lê Minh An reference",
+          "Trần Ngọc Mai reference"
+        ],
+        "prompt": "Create a dynamic comic book cover in Modern Manga style with Vietnamese cultural context.\n\nSPECIFICATIONS:\n- Aspect ratio: 2:3\n- Cultural setting: Modern Vietnam\n- Art style: Modern Manga\n\nCOMPOSITION:\n- Main focus: The protagonist, Lê Minh An, caught in a digital trap.\n- Layout: Dynamic diagonal composition.\n\nCHARACTER(S):\nLê Minh An (Vietnamese):\n- Use uploaded reference image for Lê Minh An.\n- Pose: In the foreground, looking at his smartphone with a shocked and horrified expression.\n- Position: Centered, slightly to the left.\n- Ensure ethnic features match reference: Monolid eyes, black hair, skin tone.\n- Clothing: As shown in reference (casual T-shirt).\n\nTrần Ngọc Mai (Vietnamese):\n- Use uploaded reference image for Trần Ngọc Mai.\n- Pose: Standing slightly behind An, with a determined and concerned expression, pointing towards the danger emerging from the phone.\n- Position: To the right and slightly behind An.\n- Ensure ethnic features match reference.\n- Clothing: As shown in reference (school uniform).\n\nBACKGROUND/SETTING:\n- A dark, abstract digital background with glowing binary code (0s and 1s).\n- A shadowy, hooded figure with glowing red digital eyes looms behind An, representing the scammer.\n- Digital tentacles made of light and code are reaching out from the phone's screen, attempting to ensnare An.\n\nLIGHTING:\n- Light source: The bright, cold light from the smartphone screen illuminating An's horrified face.\n- Color palette: Dominated by dark blues and blacks, contrasted with the bright, toxic green and red glow of the digital elements.\n- Atmosphere: Tense, dangerous, and cautionary.\n\nTEXT ELEMENTS (in Vietnamese):\n\nTITLE (top/center, large and bold):\n\"CẠM BẪY VÔ HÌNH\"\n- Font: A modern, slightly jagged digital-style font.\n- Style: Bold, eye-catching.\n- Color: White with a red or green glow effect.\n\nSUBTITLE (optional, below title):\n\"Đừng để tiền mất, tật mang!\"\n- Position: Below the main title, smaller.\n\nREQUIREMENTS:\n- Use uploaded character references for consistency.\n- Characters must match reference sheets exactly.\n- Characters appear authentically as Vietnamese.\n- Title in Vietnamese clearly legible.\n- The overall mood should be cautionary and high-tech.\n- Composition fits specified 2:3 aspect ratio.\n- Font supports Vietnamese script."
+      }
+    },
+    "pages": [
+      {
+        "page_number": 1,
+        "page_title": "Lời Mời Hấp Dẫn",
+        "page_summary": "Giới thiệu An, một game thủ đầy nhiệt huyết, đang chơi game trong phòng. Cậu bất ngờ nhận được một tin nhắn thông báo trúng thưởng một vật phẩm hiếm, khơi dậy sự phấn khích tột độ.",
+        "characters_on_page": [
+          "Lê Minh An"
+        ],
+        "panels": [
+          {
+            "panel_number": 1,
+            "scene_description": "Khung cảnh rộng của phòng An. Căn phòng hơi bừa bộn với sách truyện tranh, vài gói snack ăn dở. An đang ngồi trước máy tính, đeo tai nghe gaming, hoàn toàn tập trung vào màn hình.",
+            "characters_in_panel": [
+              "Lê Minh An"
+            ],
+            "camera": {
+              "angle": "Wide shot",
+              "distance": "Long shot",
+              "perspective": "Straight-on"
+            },
+            "characters": [
+              {
+                "name": "Lê Minh An",
+                "action": "Ngồi trên ghế gaming, người hơi nhoài về phía trước, hai tay đặt trên bàn phím và chuột, mắt dán vào màn hình máy tính.",
+                "expression": "Cực kỳ tập trung, miệng hơi mím lại.",
+                "position": "Trung tâm khung hình."
+              }
+            ],
+            "setting": {
+              "environment": "Phòng ngủ của một thiếu niên điển hình ở Việt Nam, có poster game/anime trên tường, một giá sách nhỏ và cửa sổ nhìn ra ban công.",
+              "cultural_elements": "Vài cuốn truyện tranh manga tiếng Việt, vỏ chai nước ngọt có thương hiệu địa phương.",
+              "atmosphere": "Ánh sáng chủ yếu từ màn hình máy tính, tạo không khí ấm cúng, riêng tư."
+            },
+            "lighting": {
+              "source": "Ánh sáng xanh và tím từ màn hình máy tính hắt lên mặt An.",
+              "color_palette": "Tông màu tối với các điểm nhấn neon từ màn hình.",
+              "atmosphere": "Tối, tập trung.",
+              "overall_feeling": "Sự đắm chìm, đam mê."
+            },
+            "text_elements": {
+              "dialogues": [],
+              "captions": [
+                {
+                  "text": "Lê Minh An, 16 tuổi. Giống như bao bạn bè đồng trang lứa, thế giới của cậu thường xoay quanh... game.",
+                  "english_translation": "Le Minh An, 16 years old. Like many of his peers, his world often revolves around... games.",
+                  "type": "Narration",
+                  "position": "Top left corner"
+                }
+              ],
+              "sound_effects": [
+                {
+                  "text": "CLICK! CLICK! TAP!",
+                  "position": "Gần bàn phím và chuột của An",
+                  "style": "Nhỏ, sắc nét"
+                }
+              ]
+            },
+            "panel_prompt": {
+              "references_needed": [
+                "Lê Minh An reference image",
+                "Previous panel: None (first panel)"
+              ],
+              "prompt": "Create a comic book panel in Modern Manga style with Vietnamese cultural context.\n\nPANEL SPECIFICATIONS:\n- Aspect ratio: 2:3 (portion of the page)\n- Cultural setting: Modern Vietnam\n\nCAMERA:\n- Angle: Wide shot\n- Distance: Long shot\n- Perspective: Straight-on\n\nSCENE: A wide view of An's bedroom. It's slightly messy with Vietnamese comic books and local snack wrappers. An is completely focused on his computer game.\n\nCHARACTERS:\nLê Minh An (Vietnamese):\n- Use uploaded character reference image for Lê Minh An.\n- Action/Pose: Sitting in a gaming chair, leaning forward slightly, hands on keyboard and mouse, eyes glued to the computer screen. Wearing his gaming headset.\n- Expression: Intense concentration, mouth slightly pursed.\n- Position in frame: Center of the panel.\n- Ensure appearance matches reference: glasses, hairstyle, clothing.\n\nSETTING/BACKGROUND:\n- A typical Vietnamese teenager's bedroom. Game/anime posters on the wall. A bookshelf with some Vietnamese manga. A window looking out onto a city balcony.\n\nLIGHTING AND MOOD:\n- Light source: The primary light comes from the computer monitor, casting a blue/purple glow on An's face and the immediate area.\n- Color palette: Dark tones with neon highlights from the screen.\n- Atmosphere: Dim, focused, private.\n- Overall feeling: Immersion, passion.\n\nTEXT ELEMENTS (in Vietnamese):\n\nCaption Box (position: Top left corner):\n\"Lê Minh An, 16 tuổi. Giống như bao bạn bè đồng trang lứa, thế giới của cậu thường xoay quanh... game.\"\n- Type: Narration\n\nSound Effect (position: Near An's hands on the keyboard):\n\"CLICK! CLICK! TAP!\"\n- Style: Small, sharp font.\n\nCRITICAL REQUIREMENTS:\n- Use uploaded character reference image for consistency.\n- Character must match reference sheet exactly.\n- All text in Vietnamese and clearly legible.\n- The setting should feel like a genuine Vietnamese home.\n- Cultural elements accurate and respectful."
+            }
+          },
+          {
+            "panel_number": 2,
+            "scene_description": "Cận cảnh màn hình game, hiển thị một trận chiến gay cấn. Nhân vật của An đang thi triển một kỹ năng đặc biệt.",
+            "characters_in_panel": [],
+            "camera": {
+              "angle": "Close-up",
+              "distance": "Close-up",
+              "perspective": "Straight-on"
+            },
+            "characters": [],
+            "setting": {
+              "environment": "Thế giới trong game, đầy màu sắc và hiệu ứng kỹ xảo.",
+              "cultural_elements": "Không có",
+              "atmosphere": "Hành động, dồn dập."
+            },
+            "lighting": {
+              "source": "Từ các hiệu ứng kỹ năng trong game.",
+              "color_palette": "Rực rỡ, tương phản cao.",
+              "atmosphere": "Kịch tính.",
+              "overall_feeling": "Sự phấn khích."
+            },
+            "text_elements": {
+              "dialogues": [],
+              "captions": [],
+              "sound_effects": [
+                {
+                  "text": "VÚUUUUT!",
+                  "position": "Trung tâm màn hình",
+                  "style": "Lớn, bùng nổ"
+                }
+              ]
+            },
+            "panel_prompt": {
+              "references_needed": [
+                "Previous panel: Panel 1"
+              ],
+              "prompt": "[Full panel prompt as above]"
+            }
+          },
+          {
+            "panel_number": 3,
+            "scene_description": "Một âm thanh thông báo vang lên. Cận cảnh khuôn mặt An, cậu hơi ngạc nhiên, mắt rời khỏi màn hình game.",
+            "characters_in_panel": [
+              "Lê Minh An"
+            ],
+            "camera": {
+              "angle": "Close-up",
+              "distance": "Close-up",
+              "perspective": "Slightly low angle"
+            },
+            "characters": [
+              {
+                "name": "Lê Minh An",
+                "action": "Đầu hơi nghiêng, mắt mở to nhìn về phía chiếc điện thoại đang sáng lên bên cạnh.",
+                "expression": "Tò mò, hơi ngạc nhiên.",
+                "position": "Chiếm phần lớn khung hình."
+              }
+            ],
+            "setting": {
+              "environment": "Phòng của An, nền mờ.",
+              "cultural_elements": "Không có",
+              "atmosphere": "Sự gián đoạn."
+            },
+            "lighting": {
+              "source": "Ánh sáng từ màn hình máy tính và màn hình điện thoại.",
+              "color_palette": "Tương tự panel 1.",
+              "atmosphere": "Yên tĩnh.",
+              "overall_feeling": "Sự tò mò."
+            },
+            "text_elements": {
+              "dialogues": [],
+              "captions": [],
+              "sound_effects": [
+                {
+                  "text": "Ting!",
+                  "position": "Bên cạnh chiếc điện thoại đang sáng",
+                  "style": "Rõ ràng, trong một bong bóng âm thanh nhỏ"
+                }
+              ]
+            },
+            "panel_prompt": {
+              "references_needed": [
+                "Lê Minh An reference image",
+                "Previous panel: Panel 2"
+              ],
+              "prompt": "[Full panel prompt as above]"
+            }
+          },
+          {
+            "panel_number": 4,
+            "scene_description": "Góc nhìn qua vai An. Cậu đang nhìn vào điện thoại. Một tin nhắn từ 'Ban Tổ Chức Sự Kiện Game' hiện lên với banner hào nhoáng.",
+            "characters_in_panel": [
+              "Lê Minh An"
+            ],
+            "camera": {
+              "angle": "Over-the-shoulder shot",
+              "distance": "Medium shot",
+              "perspective": "Straight-on"
+            },
+            "characters": [
+              {
+                "name": "Lê Minh An",
+                "action": "Cầm điện thoại bằng một tay, người hơi rướn tới để đọc kỹ hơn.",
+                "expression": "Không thấy rõ mặt, chỉ thấy sự tập trung qua dáng người.",
+                "position": "Bên trái khung hình, che một phần."
+              }
+            ],
+            "setting": {
+              "environment": "Màn hình điện thoại là trọng tâm. Nền là phòng An, mờ đi.",
+              "cultural_elements": "Giao diện tin nhắn giống Zalo hoặc Facebook Messenger.",
+              "atmosphere": "Hấp dẫn, lôi cuốn."
+            },
+            "lighting": {
+              "source": "Màn hình điện thoại.",
+              "color_palette": "Màu sắc tươi sáng, bắt mắt từ banner quảng cáo.",
+              "atmosphere": "Sáng.",
+              "overall_feeling": "Sự bất ngờ, hy vọng."
+            },
+            "text_elements": {
+              "dialogues": [
+                {
+                  "speaker": "Tin nhắn",
+                  "text": "Chúc mừng! Bạn là người may mắn nhận được vật phẩm hiếm [Thần Kiếm Vô Ảnh]!",
+                  "english_translation": "Congratulations! You are the lucky person to receive the rare item [Shadowless Divine Sword]!",
+                  "type": "Speech",
+                  "position": "Trên màn hình điện thoại",
+                  "balloon_points_to": "Avatar của người gửi"
+                }
+              ],
+              "captions": [],
+              "sound_effects": []
+            },
+            "panel_prompt": {
+              "references_needed": [
+                "Lê Minh An reference image",
+                "Previous panel: Panel 3"
+              ],
+              "prompt": "[Full panel prompt as above]"
+            }
+          },
+          {
+            "panel_number": 5,
+            "scene_description": "Cận cảnh đặc tả đôi mắt mở to của An, trong đó phản chiếu hình ảnh vật phẩm hiếm từ màn hình điện thoại. Một bong bóng suy nghĩ hiện lên.",
+            "characters_in_panel": [
+              "Lê Minh An"
+            ],
+            "camera": {
+              "angle": "Extreme close-up",
+              "distance": "Extreme close-up",
+              "perspective": "Straight-on"
+            },
+            "characters": [
+              {
+                "name": "Lê Minh An",
+                "action": "Không có hành động cụ thể, chỉ tập trung vào biểu cảm.",
+                "expression": "Sửng sốt, vui mừng, không thể tin được.",
+                "position": "Toàn bộ khung hình là đôi mắt và phần trên của khuôn mặt."
+              }
+            ],
+            "setting": {
+              "environment": "Không có.",
+              "cultural_elements": "Không có.",
+              "atmosphere": "Tột đỉnh của sự phấn khích."
+            },
+            "lighting": {
+              "source": "Ánh sáng phản chiếu từ điện thoại.",
+              "color_palette": "Màu sắc lấp lánh, kỳ ảo.",
+              "atmosphere": "Sáng chói.",
+              "overall_feeling": "Niềm vui và sự tham lam le lói."
+            },
+            "text_elements": {
+              "dialogues": [
+                {
+                  "speaker": "Lê Minh An",
+                  "text": "Thật sao?!",
+                  "english_translation": "Really?!",
+                  "type": "Thought",
+                  "position": "Góc trên bên phải",
+                  "balloon_points_to": "An (ngoài khung hình)"
+                }
+              ],
+              "captions": [],
+              "sound_effects": []
+            },
+            "panel_prompt": {
+              "references_needed": [
+                "Lê Minh An reference image",
+                "Previous panel: Panel 4"
+              ],
+              "prompt": "[Full panel prompt as above]"
+            }
+          }
+        ]
+      }
+    ]
+  }

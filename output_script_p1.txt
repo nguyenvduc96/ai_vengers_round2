@@ -1,0 +1,85 @@
+Of course! As an expert comic book writer, I'll craft the detailed image generation prompts for each panel on page 1, ensuring they capture the story's essence and adhere to the specified modern manga style and Vietnamese cultural context.
+
+Here are the complete prompts for Page 1 of "Cạm Bẫy Vô Hình".
+
+***
+
+### **Page 1: Lời Mời Hấp Dẫn**
+
+**Panel 1**
+*_(Prompt is already complete in the JSON, provided for context.)_*
+```json
+{
+    "panel_number": 1,
+    "panel_prompt": {
+        "references_needed": [
+            "Lê Minh An reference image",
+            "Previous panel: None (first panel)"
+        ],
+        "prompt": "Create a comic book panel in Modern Manga style with Vietnamese cultural context.\n\nPANEL SPECIFICATIONS:\n- Aspect ratio: 2:3 (portion of the page)\n- Cultural setting: Modern Vietnam\n\nCAMERA:\n- Angle: Wide shot\n- Distance: Long shot\n- Perspective: Straight-on\n\nSCENE: A wide view of An's bedroom. It's slightly messy with Vietnamese comic books and local snack wrappers. An is completely focused on his computer game.\n\nCHARACTERS:\nLê Minh An (Vietnamese):\n- Use uploaded character reference image for Lê Minh An.\n- Action/Pose: Sitting in a gaming chair, leaning forward slightly, hands on keyboard and mouse, eyes glued to the computer screen. Wearing his gaming headset.\n- Expression: Intense concentration, mouth slightly pursed.\n- Position in frame: Center of the panel.\n- Ensure appearance matches reference: glasses, hairstyle, clothing.\n\nSETTING/BACKGROUND:\n- A typical Vietnamese teenager's bedroom. Game/anime posters on the wall. A bookshelf with some Vietnamese manga. A window looking out onto a city balcony.\n\nLIGHTING AND MOOD:\n- Light source: The primary light comes from the computer monitor, casting a blue/purple glow on An's face and the immediate area.\n- Color palette: Dark tones with neon highlights from the screen.\n- Atmosphere: Dim, focused, private.\n- Overall feeling: Immersion, passion.\n\nTEXT ELEMENTS (in Vietnamese):\n\nCaption Box (position: Top left corner):\n\"Lê Minh An, 16 tuổi. Giống như bao bạn bè đồng trang lứa, thế giới của cậu thường xoay quanh... game.\"\n- Type: Narration\n\nSound Effect (position: Near An's hands on the keyboard):\n\"CLICK! CLICK! TAP!\"\n- Style: Small, sharp font.\n\nCRITICAL REQUIREMENTS:\n- Use uploaded character reference image for consistency.\n- Character must match reference sheet exactly.\n- All text in Vietnamese and clearly legible.\n- The setting should feel like a genuine Vietnamese home.\n- Cultural elements accurate and respectful."
+    }
+}
+```
+
+---
+
+**Panel 2**
+```json
+{
+    "panel_number": 2,
+    "panel_prompt": {
+        "references_needed": [
+            "Previous panel: Panel 1"
+        ],
+        "prompt": "Create a comic book panel in Modern Manga style.\n\nPANEL SPECIFICATIONS:\n- Aspect ratio: 2:3 (portion of the page)\n\nCAMERA:\n- Angle: Close-up\n- Distance: Close-up\n- Perspective: Straight-on\n\nSCENE: A dynamic, close-up shot of a fantasy RPG video game screen. The screen displays an intense battle. A player character, resembling a sleek anime swordsman, is in the middle of executing a powerful special attack, causing a brilliant explosion of light and particle effects.\n\nSETTING/BACKGROUND:\n- The in-game world is a fantastical landscape with floating rocks and a dark, magical sky. The user interface (health bars, skill icons) is visible but not the main focus.\n\nLIGHTING AND MOOD:\n- Light source: The bright, explosive light from the character's special skill.\n- Color palette: Vibrant, high-contrast colors like electric blue, magenta, and gold against a dark background.\n- Atmosphere: Action-packed, dramatic, and exciting.\n- Overall feeling: High-stakes excitement.\n\nTEXT ELEMENTS (in Vietnamese):\n\nSound Effect (position: Center of the screen, integrated with the explosion):\n\"VÚUUUUT!\"\n- Style: Large, explosive, dynamic font that follows the motion of the attack.\n\nCRITICAL REQUIREMENTS:\n- The panel should look like a screenshot from a high-quality anime-style video game.\n- The sound effect must be dramatic and visually integrated into the action.\n- All text in Vietnamese and clearly legible."
+    }
+}
+```
+
+---
+
+**Panel 3**
+```json
+{
+    "panel_number": 3,
+    "panel_prompt": {
+        "references_needed": [
+            "Lê Minh An reference image",
+            "Previous panel: Panel 2"
+        ],
+        "prompt": "Create a comic book panel in Modern Manga style with Vietnamese cultural context.\n\nPANEL SPECIFICATIONS:\n- Aspect ratio: 2:3 (portion of the page)\n- Cultural setting: Modern Vietnam\n\nCAMERA:\n- Angle: Close-up\n- Distance: Close-up\n- Perspective: Slightly low angle, looking up at the character.\n\nSCENE: A close-up on the face of Lê Minh An. His intense gaming focus is broken by a notification sound. His head is slightly tilted as he looks away from his computer monitor (off-screen) towards his smartphone, which is just entering the frame, screen glowing brightly.\n\nCHARACTERS:\nLê Minh An (Vietnamese):\n- Use uploaded character reference image for Lê Minh An.\n- Action/Pose: Head tilted, eyes wide and shifting focus towards the glowing phone.\n- Expression: Surprise mixed with curiosity. Eyebrows slightly raised.\n- Position in frame: His face occupies most of the panel.\n- Ensure appearance matches reference: black-rimmed glasses, messy black hair.\n\nSETTING/BACKGROUND:\n- The background is his dimly lit room, blurred to keep the focus on his expression.\n\nLIGHTING AND MOOD:\n- Light source: Dual lighting. The cool, blueish glow from the computer monitor (off-screen) still illuminates one side of his face, while a new, bright white light from the phone screen illuminates the other side.\n- Color palette: Similar dark tones to panel 1, but with a new, intrusive light source.\n- Atmosphere: A moment of quiet interruption.\n- Overall feeling: Curiosity, a break in the action.\n\nTEXT ELEMENTS (in Vietnamese):\n\nSound Effect (position: Next to the glowing smartphone, in a small, clean sound bubble):\n\"Ting!\"\n- Style: Clear, crisp font.\n\nCRITICAL REQUIREMENTS:\n- Use uploaded character reference image for consistency.\n- Character must match reference sheet exactly.\n- The dual lighting effect is crucial to the storytelling.\n- All text in Vietnamese and clearly legible."
+    }
+}
+```
+
+---
+
+**Panel 4**
+```json
+{
+    "panel_number": 4,
+    "panel_prompt": {
+        "references_needed": [
+            "Lê Minh An reference image",
+            "Previous panel: Panel 3"
+        ],
+        "prompt": "Create a comic book panel in Modern Manga style with Vietnamese cultural context.\n\nPANEL SPECIFICATIONS:\n- Aspect ratio: 2:3 (portion of the page)\n- Cultural setting: Modern Vietnam\n\nCAMERA:\n- Angle: Over-the-shoulder shot\n- Distance: Medium shot\n- Perspective: Straight-on, looking from behind An at his phone.\n\nSCENE: The view is from behind Lê Minh An's shoulder as he holds his smartphone. The phone screen is the central focus, displaying a message within an app that looks like Zalo or Facebook Messenger. The message has a flashy, official-looking banner for a game event.\n\nCHARACTERS:\nLê Minh An (Vietnamese):\n- Use uploaded character reference image for Lê Minh An.\n- Action/Pose: Seen from the back/side, holding his phone. His head and shoulders frame the left side of the panel. His posture should convey rapt attention.\n- Expression: Not visible, focus is on the phone.\n- Position in frame: Left side, partially in frame.\n\nSETTING/BACKGROUND:\n- The main 'setting' is the phone screen. The background of An's room is completely blurred out.\n- The phone screen shows a chat interface. The sender's avatar is the game's logo. The message itself is designed to look like a prize notification.\n\nLIGHTING AND MOOD:\n- Light source: The bright light from the smartphone screen, which illuminates his hand and the side of his face.\n- Color palette: The phone screen is bright and colorful (golds, reds, blues) to look exciting and legitimate, contrasting with the dark room.\n- Atmosphere: Alluring, hopeful.\n- Overall feeling: Surprise and budding excitement.\n\nTEXT ELEMENTS (in Vietnamese):\n\nDialogue (position: On the phone screen, within a message bubble):\n\"Chúc mừng! Bạn là người may mắn nhận được vật phẩm hiếm [Thần Kiếm Vô Ảnh]!\"\n- Speaker: A message from an account named \"Ban Tổ Chức Sự Kiện Game\".\n- Style: The text should be clear and easy to read on the screen. The item name \"Thần Kiếm Vô Ảnh\" should be highlighted in a different color or bolded.\n\nCRITICAL REQUIREMENTS:\n- Use uploaded character reference image for consistency.\n- The phone screen and message must be the clear focal point.\n- The interface should resemble a popular Vietnamese messaging app.\n- All text in Vietnamese and clearly legible."
+    }
+}
+```
+
+---
+
+**Panel 5**
+```json
+{
+    "panel_number": 5,
+    "panel_prompt": {
+        "references_needed": [
+            "Lê Minh An reference image",
+            "Previous panel: Panel 4"
+        ],
+        "prompt": "Create a comic book panel in Modern Manga style.\n\nPANEL SPECIFICATIONS:\n- Aspect ratio: 2:3 (portion of the page)\n\nCAMERA:\n- Angle: Extreme close-up\n- Distance: Extreme close-up\n- Perspective: Straight-on\n\nSCENE: An extreme close-up on Lê Minh An's wide, astonished eyes behind his glasses. The lenses of his glasses are catching the light from the phone, and within them is a clear reflection of a magnificent, glowing fantasy sword (the 'Thần Kiếm Vô Ảnh').\n\nCHARACTERS:\nLê Minh An (Vietnamese):\n- Use uploaded character reference image for Lê Minh An.\n- Action/Pose: This is a static, expressive shot. The focus is entirely on his eyes and the reflection.\n- Expression: Utter shock, disbelief, and immense excitement. His eyes are wide open, pupils slightly dilated.\n- Position in frame: His eyes, glasses, and the bridge of his nose fill the entire panel.\n\nSETTING/BACKGROUND:\n- No background is visible, only the intense emotional expression.\n\nLIGHTING AND MOOD:\n- Light source: The bright, magical glow from the phone (off-screen), which is reflected in his glasses.\n- Color palette: The reflection of the sword should be ethereal and colorful (e.g., glowing silver with a blue aura), creating a sharp, brilliant contrast on his face.\n- Atmosphere: A moment of pure, unadulterated joy and greed.\n- Overall feeling: Hooked, the bait has been taken.\n\nTEXT ELEMENTS (in Vietnamese):\n\nThought Bubble (position: Top right corner, with a trail leading off-panel towards An's head):\n\"Thật sao?!\"\n- Type: Thought\n- Style: A fluffy, cloud-like thought bubble.\n\nCRITICAL REQUIREMENTS:\n- Use uploaded character reference image for consistency.\n- The reflection of the legendary sword in his glasses is the most critical visual element and must be clear and captivating.\n- The expression of shock and excitement must be powerfully conveyed.\n- All text in Vietnamese and clearly legible."
+    }
+}
+```

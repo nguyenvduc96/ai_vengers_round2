@@ -1,0 +1,671 @@
+{
+    "pages": [
+      {
+        "page_number": 2,
+        "page_title": "Cú Nhấp Chuột Vội Vã",
+        "page_summary": "Về nhà, Mai thuyết phục mẹ cho mua hàng và nhanh chóng thực hiện giao dịch trong niềm hân hoan.",
+        "characters_on_page": ["Mai", "Mẹ của Mai"],
+        "panels": [
+          {
+            "panel_number": 1,
+            "scene_description": "Phòng khách của gia đình Mai. Mai đang nói chuyện với mẹ. Mẹ cô đang bận rộn chuẩn bị bữa tối.",
+            "characters_in_panel": ["Mai", "Mẹ của Mai"],
+            "camera": {
+              "angle": "Medium shot",
+              "distance": "Medium shot",
+              "perspective": "Eye-level"
+            },
+            "characters": [
+              {
+                "name": "Mai",
+                "action": "Chắp hai tay, làm vẻ mặt năn nỉ với mẹ.",
+                "expression": "Nài nỉ, đầy hy vọng.",
+                "position": "Đứng gần mẹ trong bếp."
+              },
+              {
+                "name": "Mẹ của Mai",
+                "action": "Đang thái rau củ, quay sang nhìn Mai với vẻ mặt hơi thiếu kiên nhẫn nhưng vẫn yêu thương.",
+                "expression": "Hơi bận rộn, nhưng vẫn lắng nghe.",
+                "position": "Đứng ở bàn bếp."
+              }
+            ],
+            "setting": {
+              "environment": "Một căn bếp Việt Nam ấm cúng và hơi bừa bộn với các nguyên liệu nấu ăn.",
+              "cultural_elements": "Các loại rau củ, gia vị đặc trưng của Việt Nam. Mối quan hệ mẹ con gần gũi.",
+              "atmosphere": "Không khí gia đình ấm áp."
+            },
+            "lighting": {
+              "source": "Ánh sáng từ đèn bếp.",
+              "color_palette": "Gam màu ấm, vàng nhạt.",
+              "atmosphere": "Ấm cúng, đời thường.",
+              "overall_feeling": "Gia đình, thân thuộc."
+            },
+            "text_elements": {
+              "dialogues": [
+                {
+                  "speaker": "Mai",
+                  "text": "Mẹ ơi, cho con mua cái này nhé? Đang giảm giá lớn lắm ạ! Bạn con ai cũng có rồi...",
+                  "english_translation": "Mom, can I please buy this? It's on a huge sale! All my friends already have one...",
+                  "type": "Speech",
+                  "position": "Gần Mai",
+                  "balloon_points_to": "Mai"
+                },
+                {
+                  "speaker": "Mẹ của Mai",
+                  "text": "Lại đồ thần tượng gì chứ... Thôi được rồi, nhưng chỉ lần này thôi đấy nhé!",
+                  "english_translation": "Another one of those idol things... Okay, fine, but just this once!",
+                  "type": "Speech",
+                  "position": "Gần Mẹ",
+                  "balloon_points_to": "Mẹ của Mai"
+                }
+              ],
+              "captions": [],
+              "sound_effects": []
+            },
+            "panel_prompt": {
+              "references_needed": ["Mai reference"],
+              "prompt": "Create a Modern Manga style comic panel. Aspect ratio: 2:3. Cultural setting: Vietnam.\n\nCAMERA: Medium shot, eye-level.\n\nSCENE: A cozy, slightly messy Vietnamese kitchen in the evening. Mai is pleading with her mom, who is busy cooking.\n\nCHARACTERS:\n- Mai (Vietnamese): Use uploaded reference. She is clasping her hands together, making a cute begging face.\n- Mai's Mom (Vietnamese, around 45 years old, gentle face but looks busy): She is chopping vegetables at the counter, looking over her shoulder at Mai with a mix of exasperation and affection.\n\nSETTING/BACKGROUND: A warm kitchen with common Vietnamese cooking ingredients on the counter. The atmosphere is homey.\n\nLIGHTING AND MOOD: Warm light from the kitchen overhead lamp. The mood is a typical, warm family interaction.\n\nTEXT ELEMENTS (in Vietnamese):\n- Speech Balloon 1 (near Mai): \"Mẹ ơi, cho con mua cái này nhé? Đang giảm giá lớn lắm ạ! Bạn con ai cũng có rồi...\"\n- Speech Balloon 2 (near Mom): \"Lại đồ thần tượng gì chứ... Thôi được rồi, nhưng chỉ lần này thôi đấy nhé!\"\n\nCRITICAL REQUIREMENTS: Use uploaded reference for Mai. The setting should feel like an authentic Vietnamese home. All text in Vietnamese."
+            }
+          },
+          {
+            "panel_number": 2,
+            "scene_description": "Cận cảnh Mai đang ngồi trong phòng ngủ, nhập thông tin thẻ thanh toán vào điện thoại. Khuôn mặt cô tập trung cao độ.",
+            "characters_in_panel": ["Mai"],
+            "camera": {
+              "angle": "Close-up",
+              "distance": "Close-up",
+              "perspective": "High angle, looking down at her phone"
+            },
+            "characters": [
+              {
+                "name": "Mai",
+                "action": "Ngồi trên giường, hai tay giữ điện thoại, ngón tay cái đang lướt và nhập thông tin trên màn hình.",
+                "expression": "Tập trung, hồi hộp.",
+                "position": "Trung tâm khung hình."
+              }
+            ],
+            "setting": {
+              "environment": "Phòng ngủ của Mai, có poster của các ban nhạc K-pop trên tường.",
+              "cultural_elements": "Trang trí phòng ngủ của một fan K-pop.",
+              "atmosphere": "Tập trung, căng thẳng nhẹ."
+            },
+            "lighting": {
+              "source": "Ánh sáng từ đèn bàn và màn hình điện thoại.",
+              "color_palette": "Màu sắc dịu nhẹ của phòng ngủ, tương phản với ánh sáng xanh từ điện thoại.",
+              "atmosphere": "Riêng tư, cá nhân.",
+              "overall_feeling": "Hồi hộp."
+            },
+            "text_elements": {
+              "dialogues": [],
+              "captions": [
+                {
+                  "text": "Chỉ cần vài cú nhấp chuột...",
+                  "english_translation": "Just a few more clicks...",
+                  "type": "Internal monologue",
+                  "position": "Bottom of the panel"
+                }
+              ],
+              "sound_effects": [
+                {
+                  "text": "*click* *click*",
+                  "position": "Near her fingers on the screen",
+                  "style": "Small, subtle"
+                }
+              ]
+            },
+            "panel_prompt": {
+              "references_needed": ["Mai reference", "Previous panel: Page 2, Panel 1"],
+              "prompt": "Create a Modern Manga style comic panel. Aspect ratio: 2:3. Cultural setting: Vietnam.\n\nCAMERA: High-angle close-up, looking down at Mai and her phone.\n\nSCENE: Mai is sitting on her bed in her bedroom, which has K-pop posters on the wall. She is intensely focused on her phone, entering payment information.\n\nCHARACTERS:\n- Mai (Vietnamese): Use uploaded reference. Her expression is concentrated and a little anxious as she types on her phone.\n\nSETTING/BACKGROUND: Her bedroom decorated with K-pop merchandise. The focus is on the action of entering details into the phone.\n\nLIGHTING AND MOOD: The room is lit by a desk lamp, with the phone's screen casting a glow on her face. The mood is one of suspense and anticipation.\n\nTEXT ELEMENTS (in Vietnamese):\n- Caption Box (bottom, internal thought style): \"Chỉ cần vài cú nhấp chuột...\"\n- Sound Effect (near her fingers): \"*click* *click*\"\n\nCRITICAL REQUIREMENTS: Use uploaded character reference for Mai. Her room should reflect her personality. All text in Vietnamese."
+            }
+          },
+          {
+            "panel_number": 3,
+            "scene_description": "Màn hình điện thoại hiển thị thông báo \"ĐẶT HÀNG THÀNH CÔNG!\".",
+            "characters_in_panel": [],
+            "camera": {
+              "angle": "Extreme close-up",
+              "distance": "Extreme close-up",
+              "perspective": "Straight-on"
+            },
+            "characters": [],
+            "setting": {
+              "environment": "Toàn bộ khung hình là màn hình điện thoại, với thông báo thành công được thiết kế bắt mắt, có hoa giấy và ngôi sao xung quanh.",
+              "cultural_elements": "",
+              "atmosphere": "Vui vẻ, thành công."
+            },
+            "lighting": {
+              "source": "Ánh sáng từ chính màn hình.",
+              "color_palette": "Màu sắc tươi sáng, rực rỡ (xanh lá, vàng).",
+              "atmosphere": "Tích cực.",
+              "overall_feeling": "Thành công, nhẹ nhõm."
+            },
+            "text_elements": {
+              "dialogues": [],
+              "captions": [
+                {
+                  "text": "ĐẶT HÀNG THÀNH CÔNG!",
+                  "english_translation": "ORDER SUCCESSFUL!",
+                  "type": "Narration",
+                  "position": "Center of the screen, large font"
+                }
+              ],
+              "sound_effects": []
+            },
+            "panel_prompt": {
+              "references_needed": ["Previous panel: Page 2, Panel 2"],
+              "prompt": "Create a Modern Manga style comic panel. Aspect ratio: 2:3.\n\nCAMERA: Extreme close-up of a smartphone screen.\n\nSCENE: The entire panel is the phone screen. It displays a brightly colored, celebratory message.\n\nSETTING/BACKGROUND: The screen shows a confirmation page with confetti and star graphics around the central text.\n\nLIGHTING AND MOOD: Bright and cheerful light emitting from the screen. The mood is successful and happy.\n\nTEXT ELEMENTS (in Vietnamese):\n- Text on screen (center, large, bold, celebratory font): \"ĐẶT HÀNG THÀNH CÔNG!\"\n\nCRITICAL REQUIREMENTS: The text must be in Vietnamese and be the sole focus of the panel. The design should look like a generic success message from an e-commerce site."
+            }
+          },
+          {
+            "panel_number": 4,
+            "scene_description": "Mai giơ hai tay lên trời, reo hò trong im lặng trong phòng ngủ của mình. Cô ấy đang cực kỳ hạnh phúc và tưởng tượng về việc nhận được món đồ.",
+            "characters_in_panel": ["Mai"],
+            "camera": {
+              "angle": "Medium shot",
+              "distance": "Medium shot",
+              "perspective": "Eye-level"
+            },
+            "characters": [
+              {
+                "name": "Mai",
+                "action": "Ngồi trên giường, giơ hai tay lên trời một cách chiến thắng, điện thoại đặt bên cạnh. Mắt nhắm lại và miệng cười thật tươi.",
+                "expression": "Cực kỳ vui sướng, hân hoan.",
+                "position": "Trung tâm khung hình."
+              }
+            ],
+            "setting": {
+              "environment": "Phòng ngủ của Mai. Xung quanh cô là các hình ảnh tưởng tượng nhỏ, mờ ảo về chiếc lightstick đang tỏa sáng.",
+              "cultural_elements": "",
+              "atmosphere": "Mơ mộng, hạnh phúc."
+            },
+            "lighting": {
+              "source": "Ánh sáng dịu nhẹ trong phòng.",
+              "color_palette": "Màu hồng và tím pastel, tạo cảm giác mơ mộng.",
+              "atmosphere": "Vui vẻ, nhẹ nhàng.",
+              "overall_feeling": "Hạnh phúc, mãn nguyện."
+            },
+            "text_elements": {
+              "dialogues": [],
+              "captions": [],
+              "sound_effects": [
+                {
+                  "text": "Yesss!",
+                  "position": "Bên cạnh Mai, trong một bong bóng suy nghĩ",
+                  "style": "Excited, script font"
+                }
+              ]
+            },
+            "panel_prompt": {
+              "references_needed": ["Mai reference", "Previous panel: Page 2, Panel 3"],
+              "prompt": "Create a Modern Manga style comic panel. Aspect ratio: 2:3. Cultural setting: Vietnam.\n\nCAMERA: Medium shot, eye-level.\n\nSCENE: Mai is on her bed, celebrating joyfully but quietly. Small, dreamy bubbles around her show the glowing K-pop lightstick she just ordered.\n\nCHARACTERS:\n- Mai (Vietnamese): Use uploaded reference. She has her arms raised in a victory pose, a huge, happy smile on her face, with her eyes closed in bliss.\n\nSETTING/BACKGROUND: Her bedroom is softly lit. The focus is on her pure joy.\n\nLIGHTING AND MOOD: Soft, dreamy lighting. The color palette incorporates pastel pinks and purples to enhance the dreamy, happy mood.\n\nTEXT ELEMENTS:\n- Thought Bubble (near Mai, excited script font): \"Yesss!\"\n\nCRITICAL REQUIREMENTS: Use uploaded character reference for Mai. The emotion of pure happiness should be the central focus. The text should be presented as an internal thought."
+            }
+          }
+        ]
+      },
+      {
+        "page_number": 3,
+        "page_title": "Sự Im Lặng Đáng Sợ",
+        "page_summary": "Một tuần trôi qua, Mai không nhận được hàng. Cô lo lắng kiểm tra trang web và phát hiện nó đã không còn tồn tại, và cô nhận ra sự thật đau lòng.",
+        "characters_on_page": ["Mai"],
+        "panels": [
+          {
+            "panel_number": 1,
+            "scene_description": "Một chuỗi các khung hình nhỏ chồng lên nhau, thể hiện thời gian trôi qua: Mai đang đi học, ăn cơm, xem TV, nhưng luôn liếc nhìn vào điện thoại với vẻ chờ đợi.",
+            "characters_in_panel": ["Mai"],
+            "camera": {
+              "angle": "Montage",
+              "distance": "Varies",
+              "perspective": "Varies"
+            },
+            "characters": [
+              {
+                "name": "Mai",
+                "action": "Trong mỗi khung hình nhỏ, cô đều đang làm một hoạt động khác nhau nhưng luôn có hành động kiểm tra điện thoại.",
+                "expression": "Từ hy vọng chuyển dần sang sốt ruột.",
+                "position": "Trung tâm của mỗi khung hình nhỏ."
+              }
+            ],
+            "setting": {
+              "environment": "Nhiều bối cảnh khác nhau: lớp học, phòng ăn, phòng khách.",
+              "cultural_elements": "Các hoạt động thường ngày của một học sinh Việt Nam.",
+              "atmosphere": "Sự chờ đợi kéo dài."
+            },
+            "lighting": {
+              "source": "Ánh sáng thay đổi theo thời gian trong ngày.",
+              "color_palette": "Màu sắc dần trở nên kém tươi, ngả sang tông xám.",
+              "atmosphere": "Căng thẳng tăng dần.",
+              "overall_feeling": "Sốt ruột, lo lắng."
+            },
+            "text_elements": {
+              "dialogues": [],
+              "captions": [
+                {
+                  "text": "Một tuần sau...",
+                  "english_translation": "One week later...",
+                  "type": "Time-location",
+                  "position": "Top of the panel"
+                }
+              ],
+              "sound_effects": []
+            },
+            "panel_prompt": {
+              "references_needed": ["Mai reference", "Previous panel: Page 2, Panel 4"],
+              "prompt": "Create a Modern Manga style comic panel. Aspect ratio: 2:3. Cultural setting: Vietnam.\n\nCAMERA: Montage of small, overlapping frames showing the passage of time.\n\nSCENE: Show Mai in various daily activities (at school, eating dinner, watching TV). In each small frame, she is shown glancing at her phone expectantly. Her expression shifts from hopeful to impatient across the montage.\n\nCHARACTERS:\n- Mai (Vietnamese): Use uploaded reference. Her actions are routine, but her focus is always on her phone.\n\nSETTING/BACKGROUND: Various settings of her daily life.\n\nLIGHTING AND MOOD: The color palette should gradually become more muted and greyish to reflect her growing anxiety.\n\nTEXT ELEMENTS (in Vietnamese):\n- Caption Box (top of panel): \"Một tuần sau...\"\n\nCRITICAL REQUIREMENTS: Use uploaded character reference for Mai. The panel must effectively convey the passage of time and Mai's increasing impatience."
+            }
+          },
+          {
+            "panel_number": 2,
+            "scene_description": "Mai ngồi trong phòng, gõ địa chỉ trang web vào trình duyệt trên laptop. Vẻ mặt cô căng thẳng.",
+            "characters_in_panel": ["Mai"],
+            "camera": {
+              "angle": "Medium shot",
+              "distance": "Medium",
+              "perspective": "Side view"
+            },
+            "characters": [
+              {
+                "name": "Mai",
+                "action": "Ngồi trước laptop, hai tay đặt trên bàn phím, ánh mắt dán chặt vào màn hình.",
+                "expression": "Lo lắng, tập trung.",
+                "position": "Ngồi ở bàn học."
+              }
+            ],
+            "setting": {
+              "environment": "Phòng ngủ của Mai, nhưng không khí có vẻ nặng nề hơn trước.",
+              "cultural_elements": "",
+              "atmosphere": "Căng thẳng."
+            },
+            "lighting": {
+              "source": "Ánh sáng từ màn hình laptop.",
+              "color_palette": "Màu sắc lạnh, tông xanh và xám.",
+              "atmosphere": "Nghi ngờ, lo âu.",
+              "overall_feeling": "Điềm báo xấu."
+            },
+            "text_elements": {
+              "dialogues": [],
+              "captions": [
+                {
+                  "text": "Tại sao vẫn chưa có thông tin giao hàng nhỉ? Để mình kiểm tra lại trang web...",
+                  "english_translation": "Why isn't there any shipping info yet? Let me check the website again...",
+                  "type": "Internal monologue",
+                  "position": "Top"
+                }
+              ],
+              "sound_effects": [
+                {
+                  "text": "*tap* *tap* *tap*",
+                  "position": "Near the keyboard",
+                  "style": "Sharp, nervous"
+                }
+              ]
+            },
+            "panel_prompt": {
+              "references_needed": ["Mai reference", "Previous panel: Page 3, Panel 1"],
+              "prompt": "Create a Modern Manga style comic panel. Aspect ratio: 2:3. Cultural setting: Vietnam.\n\nCAMERA: Medium shot from the side.\n\nSCENE: Mai is sitting at her desk in her bedroom, anxiously typing on her laptop. The room feels tense.\n\nCHARACTERS:\n- Mai (Vietnamese): Use uploaded reference. Her expression is worried and focused on the laptop screen.\n\nSETTING/BACKGROUND: Her bedroom, but the atmosphere is heavy.\n\nLIGHTING AND MOOD: The main light is the cold glow from the laptop screen, casting shadows in the room. The color palette is cool with blues and greys. The mood is ominous.\n\nTEXT ELEMENTS (in Vietnamese):\n- Thought Bubble (top): \"Tại sao vẫn chưa có thông tin giao hàng nhỉ? Để mình kiểm tra lại trang web...\"\n- Sound Effect (near keyboard): \"*tap* *tap* *tap*\"\n\nCRITICAL REQUIREMENTS: Use uploaded character reference. The sense of foreboding and anxiety should be clear. All text in Vietnamese."
+            }
+          },
+          {
+            "panel_number": 3,
+            "scene_description": "Cận cảnh màn hình laptop, hiển thị thông báo lỗi \"404 Not Found\" hoặc \"This site can't be reached\".",
+            "characters_in_panel": [],
+            "camera": {
+              "angle": "Extreme close-up",
+              "distance": "Extreme close-up",
+              "perspective": "Straight-on"
+            },
+            "characters": [],
+            "setting": {
+              "environment": "Toàn bộ khung hình là màn hình laptop với thông báo lỗi rõ ràng.",
+              "cultural_elements": "",
+              "atmosphere": "Trống rỗng, thất vọng."
+            },
+            "lighting": {
+              "source": "Ánh sáng trắng từ màn hình.",
+              "color_palette": "Trắng, đen và xám.",
+              "atmosphere": "Lạnh lẽo.",
+              "overall_feeling": "Sự thật phũ phàng."
+            },
+            "text_elements": {
+              "dialogues": [],
+              "captions": [
+                {
+                  "text": "404 Not Found",
+                  "english_translation": "404 Not Found",
+                  "type": "Narration",
+                  "position": "Center of the screen"
+                }
+              ],
+              "sound_effects": []
+            },
+            "panel_prompt": {
+              "references_needed": ["Previous panel: Page 3, Panel 2"],
+              "prompt": "Create a Modern Manga style comic panel. Aspect ratio: 2:3.\n\nCAMERA: Extreme close-up of a laptop screen.\n\nSCENE: The entire panel is the laptop screen, displaying a clear browser error message.\n\nSETTING/BACKGROUND: A standard \"404 Not Found\" or \"This site can't be reached\" page. The design should be stark and impersonal.\n\nLIGHTING AND MOOD: The cold, flat light of a computer screen. The mood is empty and disappointing.\n\nTEXT ELEMENTS:\n- Text on screen (center, standard browser font): \"404 Not Found\"\n\nCRITICAL REQUIREMENTS: The error message must be the sole focus. The feeling should be one of finality and disappointment."
+            }
+          },
+          {
+            "panel_number": 4,
+            "scene_description": "Góc nhìn rộng hơn cho thấy Mai đang ngồi chết lặng trước laptop. Điện thoại của cô rơi khỏi tay xuống giường. Mặt cô tái đi, mắt mở to vì sốc và nhận ra sự thật.",
+            "characters_in_panel": ["Mai"],
+            "camera": {
+              "angle": "Medium shot",
+              "distance": "Medium",
+              "perspective": "Slightly high angle"
+            },
+            "characters": [
+              {
+                "name": "Mai",
+                "action": "Ngồi bất động, hai tay buông thõng. Mắt dán vào màn hình lỗi nhưng ánh nhìn trống rỗng. Chiếc điện thoại đang rơi giữa không trung, gần giường.",
+                "expression": "Sốc, không tin nổi, bắt đầu tuyệt vọng.",
+                "position": "Trung tâm, trông nhỏ bé và cô đơn."
+              }
+            ],
+            "setting": {
+              "environment": "Phòng ngủ của Mai giờ đây có vẻ lạnh lẽo và xa lạ.",
+              "cultural_elements": "",
+              "atmosphere": "Tuyệt vọng."
+            },
+            "lighting": {
+              "source": "Ánh sáng lạnh từ màn hình laptop chiếu lên khuôn mặt thất thần của Mai.",
+              "color_palette": "Màu xanh xám, thiếu sức sống.",
+              "atmosphere": "Lạnh lẽo, trống rỗng.",
+              "overall_feeling": "Đau khổ, nhận ra sự thật."
+            },
+            "text_elements": {
+              "dialogues": [],
+              "captions": [
+                {
+                  "text": "Mình... bị lừa rồi sao...?",
+                  "english_translation": "Have I... been scammed...?",
+                  "type": "Internal monologue",
+                  "position": "Bottom, shaky font"
+                }
+              ],
+              "sound_effects": []
+            },
+            "panel_prompt": {
+              "references_needed": ["Mai reference", "Previous panel: Page 3, Panel 3"],
+              "prompt": "Create a Modern Manga style comic panel. Aspect ratio: 2:3. Cultural setting: Vietnam.\n\nCAMERA: Medium shot from a slightly high angle.\n\nSCENE: Mai is frozen in front of her laptop, which still shows the error screen. Her face is pale with shock. Her phone is depicted mid-air, having just slipped from her grasp and is about to land on her bed.\n\nCHARACTERS:\n- Mai (Vietnamese): Use uploaded reference. Her expression is one of utter shock and dawning horror. Her body language is limp and defeated.\n\nSETTING/BACKGROUND: Her bedroom now feels cold and empty.\n\nLIGHTING AND MOOD: The cold light from the laptop screen is the only significant light source, illuminating her stunned face. The color palette is desaturated blue and grey. The mood is one of devastation.\n\nTEXT ELEMENTS (in Vietnamese):\n- Thought Bubble (bottom of panel, in a shaky, thin font): \"Mình... bị lừa rồi sao...?\"\n\nCRITICAL REQUIREMENTS: Use uploaded character reference. The panel must capture the precise moment of heartbreaking realization. All text in Vietnamese."
+            }
+          }
+        ]
+      },
+      {
+        "page_number": 4,
+        "page_title": "Bài Học Đắt Giá",
+        "page_summary": "Mai được mẹ và An an ủi. Họ cùng nhau tìm hiểu về các dấu hiệu lừa đảo trực tuyến, biến nỗi buồn thành một buổi học hỏi.",
+        "characters_on_page": ["Mai", "Mẹ của Mai", "An"],
+        "panels": [
+          {
+            "panel_number": 1,
+            "scene_description": "Mai đang ngồi trên giường, ôm gối khóc. Mẹ cô ngồi bên cạnh, nhẹ nhàng vỗ về lưng con gái.",
+            "characters_in_panel": ["Mai", "Mẹ của Mai"],
+            "camera": {
+              "angle": "Medium shot",
+              "distance": "Medium",
+              "perspective": "Eye-level"
+            },
+            "characters": [
+              {
+                "name": "Mai",
+                "action": "Khuôn mặt giấu vào gối, vai rung lên.",
+                "expression": "Buồn bã, khóc.",
+                "position": "Bên trái."
+              },
+              {
+                "name": "Mẹ của Mai",
+                "action": "Dịu dàng ôm và an ủi Mai.",
+                "expression": "Thông cảm, yêu thương.",
+                "position": "Ngồi cạnh Mai."
+              }
+            ],
+            "setting": {
+              "environment": "Phòng ngủ của Mai.",
+              "cultural_elements": "Tình cảm gia đình, sự an ủi của người mẹ.",
+              "atmosphere": "Buồn bã nhưng ấm áp."
+            },
+            "lighting": {
+              "source": "Ánh sáng tự nhiên từ cửa sổ.",
+              "color_palette": "Màu sắc dịu, nhẹ nhàng.",
+              "atmosphere": "Yên tĩnh.",
+              "overall_feeling": "An ủi, đồng cảm."
+            },
+            "text_elements": {
+              "dialogues": [
+                {
+                  "speaker": "Mẹ của Mai",
+                  "text": "Không sao đâu con gái. Coi như đây là một bài học. Tiền mất có thể kiếm lại được, quan trọng là con đã nhận ra.",
+                  "english_translation": "It's okay, sweetie. Think of it as a lesson. Money can be earned back, what's important is that you've realized it.",
+                  "type": "Speech",
+                  "position": "Gần Mẹ",
+                  "balloon_points_to": "Mẹ của Mai"
+                }
+              ],
+              "captions": [],
+              "sound_effects": []
+            },
+            "panel_prompt": {
+              "references_needed": ["Mai reference", "Previous panel: Page 3, Panel 4"],
+              "prompt": "Create a Modern Manga style comic panel. Aspect ratio: 2:3. Cultural setting: Vietnam.\n\nCAMERA: Medium shot, eye-level.\n\nSCENE: Mai is crying into a pillow on her bed. Her mom sits beside her, gently patting her back in a comforting gesture.\n\nCHARACTERS:\n- Mai (Vietnamese): Use uploaded reference. Her face is hidden, but her shoulders are shaking from crying.\n- Mai's Mom: Sits next to Mai, with a gentle, loving, and empathetic expression.\n\nSETTING/BACKGROUND: Mai's bedroom, lit by soft daylight from the window.\n\nLIGHTING AND MOOD: Soft, natural lighting. The mood is somber but warm and supportive.\n\nTEXT ELEMENTS (in Vietnamese):\n- Speech Balloon (near Mom): \"Không sao đâu con gái. Coi như đây là một bài học. Tiền mất có thể kiếm lại được, quan trọng là con đã nhận ra.\"\n\nCRITICAL REQUIREMENTS: Use uploaded character reference for Mai. The scene must convey a strong sense of motherly comfort and support. All text in Vietnamese."
+            }
+          },
+          {
+            "panel_number": 2,
+            "scene_description": "An đến thăm. Cả ba người (Mai, An, và mẹ Mai) đang ngồi cùng nhau trước laptop, xem một bài báo hoặc video về cách nhận biết lừa đảo online.",
+            "characters_in_panel": ["Mai", "An", "Mẹ của Mai"],
+            "camera": {
+              "angle": "Medium shot",
+              "distance": "Medium",
+              "perspective": "Straight-on"
+            },
+            "characters": [
+              {
+                "name": "Mai",
+                "action": "Đã nín khóc, chăm chú nhìn vào màn hình, vẻ mặt vẫn còn buồn nhưng đã có sự tập trung.",
+                "expression": "Lắng nghe, học hỏi.",
+                "position": "Ngồi giữa."
+              },
+              {
+                "name": "An",
+                "action": "Dùng chuột chỉ vào một điểm trên màn hình, giải thích điều gì đó.",
+                "expression": "Nghiêm túc, hiểu biết.",
+                "position": "Ngồi bên trái."
+              },
+              {
+                "name": "Mẹ của Mai",
+                "action": "Khoanh tay, gật gù lắng nghe, vẻ mặt suy tư.",
+                "expression": "Quan tâm, suy ngẫm.",
+                "position": "Ngồi bên phải."
+              }
+            ],
+            "setting": {
+              "environment": "Bàn học của Mai. Màn hình laptop hiển thị các dấu hiệu lừa đảo: URL lạ, không có địa chỉ liên hệ, yêu cầu chuyển khoản vội vã.",
+              "cultural_elements": "Sự chung tay của gia đình và bạn bè để giải quyết vấn đề.",
+              "atmosphere": "Nghiêm túc, học hỏi."
+            },
+            "lighting": {
+              "source": "Ánh sáng từ màn hình laptop và đèn phòng.",
+              "color_palette": "Màu sắc trung tính, thực tế.",
+              "atmosphere": "Tập trung.",
+              "overall_feeling": "Xây dựng, hỗ trợ."
+            },
+            "text_elements": {
+              "dialogues": [
+                {
+                  "speaker": "An",
+                  "text": "Đây này, những trang web lừa đảo thường có tên miền lạ, không có thông tin liên lạc rõ ràng, và luôn thúc giục mình thanh toán thật nhanh.",
+                  "english_translation": "Look, scam sites often have weird domain names, no clear contact info, and always rush you to pay quickly.",
+                  "type": "Speech",
+                  "position": "Gần An",
+                  "balloon_points_to": "An"
+                }
+              ],
+              "captions": [],
+              "sound_effects": []
+            },
+            "panel_prompt": {
+              "references_needed": ["Mai reference", "An reference", "Previous panel: Page 4, Panel 1"],
+              "prompt": "Create a Modern Manga style comic panel. Aspect ratio: 2:3. Cultural setting: Vietnam.\n\nCAMERA: Medium shot, straight-on.\n\nSCENE: Mai, An, and Mai's mom are gathered around a laptop at Mai's desk. They are looking at an article or video about identifying online scams.\n\nCHARACTERS:\n- Mai (Vietnamese): Use uploaded reference. In the middle. She has stopped crying and is now paying close attention to the screen.\n- An (Vietnamese): Use uploaded reference. On the left. She is pointing at the screen, explaining something with a knowledgeable expression.\n- Mai's Mom: On the right. She is listening intently with a thoughtful look.\n\nSETTING/BACKGROUND: The laptop screen shows a list of red flags for online scams.\n\nLIGHTING AND MOOD: Neutral, realistic lighting. The mood is serious and educational but supportive.\n\nTEXT ELEMENTS (in Vietnamese):\n- Speech Balloon (near An): \"Đây này, những trang web lừa đảo thường có tên miền lạ, không có thông tin liên lạc rõ ràng, và luôn thúc giục mình thanh toán thật nhanh.\"\n\nCRITICAL REQUIREMENTS: Use uploaded references. The focus is on the collaborative and supportive learning process. All text in Vietnamese."
+            }
+          }
+        ]
+      },
+      {
+        "page_number": 5,
+        "page_title": "Chia Sẻ Để Bảo Vệ",
+        "page_summary": "Mai và An quyết định biến kinh nghiệm của Mai thành một bài học cho người khác. Họ làm một bài đăng/video cảnh báo cho trang mạng xã hội của trường.",
+        "characters_on_page": ["Mai", "An"],
+        "panels": [
+          {
+            "panel_number": 1,
+            "scene_description": "Mai và An đang ngồi cùng nhau trong thư viện trường, cùng nhau phác thảo ý tưởng trên một cuốn sổ.",
+            "characters_in_panel": ["Mai", "An"],
+            "camera": {
+              "angle": "Medium shot",
+              "distance": "Medium",
+              "perspective": "Slightly high angle"
+            },
+            "characters": [
+              {
+                "name": "Mai",
+                "action": "Vẻ mặt đã tươi tỉnh trở lại, đang hăng hái viết và vẽ vào sổ.",
+                "expression": "Quyết tâm, đầy năng lượng.",
+                "position": "Bên phải."
+              },
+              {
+                "name": "An",
+                "action": "Nhìn vào sổ, gật gù đồng tình, góp ý.",
+                "expression": "Ủng hộ, thông thái.",
+                "position": "Bên trái."
+              }
+            ],
+            "setting": {
+              "environment": "Thư viện trường học, có nhiều sách và ánh sáng.",
+              "cultural_elements": "Không khí học tập trong thư viện trường Việt Nam.",
+              "atmosphere": "Sáng tạo, tích cực."
+            },
+            "lighting": {
+              "source": "Ánh sáng tự nhiên từ cửa sổ lớn của thư viện.",
+              "color_palette": "Màu sắc tươi sáng, lạc quan.",
+              "atmosphere": "Yên tĩnh nhưng đầy năng lượng.",
+              "overall_feeling": "Hy vọng, trao quyền."
+            },
+            "text_elements": {
+              "dialogues": [
+                {
+                  "speaker": "Mai",
+                  "text": "Tớ không muốn có bạn nào khác bị lừa như tớ nữa. Chúng mình phải làm gì đó!",
+                  "english_translation": "I don't want any other friends to get scammed like I did. We have to do something!",
+                  "type": "Speech",
+                  "position": "Gần Mai",
+                  "balloon_points_to": "Mai"
+                },
+                {
+                  "speaker": "An",
+                  "text": "Ý hay đó! Chúng ta có thể làm một bài đăng tổng hợp các dấu hiệu lừa đảo cho trang của trường.",
+                  "english_translation": "Great idea! We can make a post summarizing the signs of a scam for the school's page.",
+                  "type": "Speech",
+                  "position": "Gần An",
+                  "balloon_points_to": "An"
+                }
+              ],
+              "captions": [],
+              "sound_effects": []
+            },
+            "panel_prompt": {
+              "references_needed": ["Mai reference", "An reference", "Previous panel: Page 4, Panel 2"],
+              "prompt": "Create a Modern Manga style comic panel. Aspect ratio: 2:3. Cultural setting: Vietnam.\n\nCAMERA: Medium shot from a slightly high angle.\n\nSCENE: Mai and An are working together at a table in the school library, brainstorming ideas in a notebook.\n\nCHARACTERS:\n- Mai (Vietnamese): Use uploaded reference. On the right. She looks determined and energetic, actively writing and drawing in the notebook.\n- An (Vietnamese): Use uploaded reference. On the left. She is looking at the notebook, nodding in agreement and offering suggestions.\n\nSETTING/BACKGROUND: A bright, well-lit school library with bookshelves in the background.\n\nLIGHTING AND MOOD: Bright, natural light from large library windows. The color palette is bright and optimistic. The mood is creative and empowered.\n\nTEXT ELEMENTS (in Vietnamese):\n- Speech Balloon 1 (near Mai): \"Tớ không muốn có bạn nào khác bị lừa như tớ nữa. Chúng mình phải làm gì đó!\"\n- Speech Balloon 2 (near An): \"Ý hay đó! Chúng ta có thể làm một bài đăng tổng hợp các dấu hiệu lừa đảo cho trang của trường.\"\n\nCRITICAL REQUIREMENTS: Use uploaded references. The panel should feel positive and proactive. All text in Vietnamese."
+            }
+          },
+          {
+            "panel_number": 2,
+            "scene_description": "Cận cảnh màn hình điện thoại, hiển thị bài đăng mà Mai và An đã tạo. Bài đăng có đồ họa bắt mắt với các gạch đầu dòng rõ ràng: \"CÁCH NHẬN BIẾT LỪA ĐẢO ONLINE\".",
+            "characters_in_panel": [],
+            "camera": {
+              "angle": "Close-up",
+              "distance": "Close-up",
+              "perspective": "Straight-on"
+            },
+            "characters": [],
+            "setting": {
+              "environment": "Màn hình điện thoại hiển thị một bài đăng trên mạng xã hội (giao diện giống Instagram hoặc Facebook).",
+              "cultural_elements": "Sử dụng mạng xã hội để lan tỏa thông điệp tích cực.",
+              "atmosphere": "Thông tin, giáo dục."
+            },
+            "lighting": {
+              "source": "Ánh sáng từ màn hình.",
+              "color_palette": "Màu sắc tươi sáng, thiết kế đồ họa tốt.",
+              "atmosphere": "Rõ ràng, mạch lạc.",
+              "overall_feeling": "Giáo dục, hữu ích."
+            },
+            "text_elements": {
+              "dialogues": [],
+              "captions": [
+                {
+                  "text": "LƯỚT TRÁI ĐỂ XEM CÁC DẤU HIỆU NHẬN BIẾT!",
+                  "english_translation": "SWIPE LEFT TO SEE THE WARNING SIGNS!",
+                  "type": "Narration",
+                  "position": "Trên hình ảnh của bài đăng"
+                }
+              ],
+              "sound_effects": []
+            },
+            "panel_prompt": {
+              "references_needed": ["Previous panel: Page 5, Panel 1"],
+              "prompt": "Create a Modern Manga style comic panel. Aspect ratio: 2:3.\n\nCAMERA: Close-up on a smartphone screen.\n\nSCENE: The screen shows a well-designed social media post (like an Instagram carousel). The main image has the title \"CÁCH NHẬN BIẾT LỪA ĐẢO ONLINE\" (How to Spot an Online Scam).\n\nSETTING/BACKGROUND: The post graphic is eye-catching and easy to read, with bullet points visible like \"URL Lạ\", \"Giá Quá Rẻ\", \"Thúc Giục Chuyển Khoản\".\n\nLIGHTING AND MOOD: Bright and clear, like a phone screen. The mood is informative and helpful.\n\nTEXT ELEMENTS (in Vietnamese):\n- Text on graphic: Title \"CÁCH NHẬN BIẾT LỪA ĐẢO ONLINE\" and other keywords.\n- Caption on post: \"LƯỚT TRÁI ĐỂ XEM CÁC DẤU HIỆU NHẬN BIẾT!\"\n\nCRITICAL REQUIREMENTS: The social media post must look authentic and be the focus. All text in Vietnamese."
+            }
+          },
+          {
+            "panel_number": 3,
+            "scene_description": "Cảnh cuối cùng. Mai và An đứng cạnh nhau, nhìn vào điện thoại với nụ cười tự tin. Phía sau lưng họ là một phiên bản mờ ảo, lớn hơn của bài đăng trên mạng xã hội, có nhiều lượt thích và bình luận tích cực.",
+            "characters_in_panel": ["Mai", "An"],
+            "camera": {
+              "angle": "Medium shot",
+              "distance": "Medium",
+              "perspective": "Slightly low angle"
+            },
+            "characters": [
+              {
+                "name": "Mai",
+                "action": "Cầm điện thoại, mỉm cười tự tin và mãn nguyện.",
+                "expression": "Tự tin, mạnh mẽ.",
+                "position": "Bên trái."
+              },
+              {
+                "name": "An",
+                "action": "Khoác vai Mai, mỉm cười tự hào.",
+                "expression": "Tự hào, ủng hộ.",
+                "position": "Bên phải."
+              }
+            ],
+            "setting": {
+              "environment": "Sân trường. Phông nền là hình ảnh bài đăng của họ đang lan tỏa, với các icon like, share bay xung quanh.",
+              "cultural_elements": "",
+              "atmosphere": "Tích cực, lan tỏa."
+            },
+            "lighting": {
+              "source": "Ánh sáng mặt trời rực rỡ.",
+              "color_palette": "Màu sắc tươi sáng, ấm áp.",
+              "atmosphere": "Lạc quan, đầy hy vọng.",
+              "overall_feeling": "Trao quyền, chiến thắng."
+            },
+            "text_elements": {
+              "dialogues": [],
+              "captions": [
+                {
+                  "text": "Hãy là người dùng thông thái trên không gian mạng!",
+                  "english_translation": "Be a smart user in cyberspace!",
+                  "type": "Narration",
+                  "position": "Bottom of the panel"
+                }
+              ],
+              "sound_effects": []
+            },
+            "panel_prompt": {
+              "references_needed": ["Mai reference", "An reference", "Previous panel: Page 5, Panel 2"],
+              "prompt": "Create a final Modern Manga style comic panel. Aspect ratio: 2:3. Cultural setting: Vietnam.\n\nCAMERA: Medium shot from a slightly low angle to make the characters look heroic.\n\nSCENE: Mai and An stand together in the schoolyard, looking confidently at the viewer. Behind them, a large, translucent version of their successful social media post is visible, with 'like' and 'comment' icons floating around it.\n\nCHARACTERS:\n- Mai (Vietnamese): Use uploaded reference. On the left. She holds her phone and has a confident, empowered smile.\n- An (Vietnamese): Use uploaded reference. On the right. She has an arm around Mai's shoulder, smiling proudly.\n\nSETTING/BACKGROUND: The schoolyard is bright and sunny. The background is filled with the visual representation of their positive impact online.\n\nLIGHTING AND MOOD: Bright, warm sunlight. The color palette is vibrant and hopeful. The overall feeling is empowering and triumphant.\n\nTEXT ELEMENTS (in Vietnamese):\n- Caption Box (bottom of panel, inspiring font): \"Hãy là người dùng thông thái trên không gian mạng!\"\n\nCRITICAL REQUIREMENTS: Use uploaded references. The final panel must convey a strong, positive message of empowerment. All text in Vietnamese."
+            }
+          }
+        ]
+      }
+    ]
+  }

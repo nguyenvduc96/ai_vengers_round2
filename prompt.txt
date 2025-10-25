@@ -1,0 +1,114 @@
+{
+  "comic_info": {
+    "title": "Sập Bẫy Online",
+    "subtitle": "Một Khoảnh Khắc Cảnh Tỉnh",
+    "genre": "Edutainment, Drama",
+    "target_audience": "Học sinh Trung học (11-18 tuổi)",
+    "tone": "Cautionary, Dramatic, Serious",
+    "art_style": "Modern Manga",
+    "total_pages": 1,
+    "aspect_ratio": "2:3",
+    "story_language": "Vietnamese",
+    "cultural_setting": "Vietnamese"
+  },
+  "story_overview": {
+    "theme": "Cảnh báo về sự nguy hiểm của lừa đảo trực tuyến thông qua khoảnh khắc bàng hoàng khi một học sinh nhận ra mình đã trở thành nạn nhân.",
+    "setting": {
+      "time_period": "Hiện tại",
+      "location": "Một thành phố ở Việt Nam",
+      "world_description": "Câu chuyện tập trung vào một khoảnh khắc riêng tư trong phòng ngủ của một thiếu niên, nơi thế giới kỹ thuật số và thực tại va chạm.",
+      "cultural_context": "Phản ánh một vấn đề ngày càng phổ biến trong giới trẻ Việt Nam hiện đại."
+    },
+    "summary": "Trong một cảnh duy nhất, cô học sinh tên Mai đối mặt với sự thật phũ phàng khi trang web mà cô đã tin tưởng đặt mua món đồ yêu thích đã biến mất, để lại cô với cảm giác sốc và nhận ra mình đã bị lừa đảo.",
+    "emotional_journey": "Tập trung vào sự chuyển đổi cảm xúc đột ngột từ lo lắng sang sốc, hoảng hốt và tuyệt vọng."
+  },
+  "characters": [
+    {
+      "id": 1,
+      "name": "Mai",
+      "role": "Protagonist",
+      "age": "16",
+      "gender": "Female",
+      "nationality": "Vietnamese",
+      "personality_traits": ["Năng động", "Hơi bốc đồng", "Đam mê"],
+      "appears_on_pages": [1],
+      "physical_appearance": {
+        "height_build": "Cao 1m60, dáng người mảnh mai",
+        "hair_color": "Đen tự nhiên",
+        "hair_style": "Tóc dài ngang vai",
+        "eye_color": "Nâu đậm",
+        "skin_tone": "Da sáng màu vàng",
+        "distinctive_features": "Nụ cười rạng rỡ (dù không cười trong cảnh này)."
+      },
+      "clothing": {
+        "top": "Áo thun mặc ở nhà.",
+        "bottom": "Quần short."
+      },
+      "personality": {
+        "default_expression": "Vui vẻ, tươi tắn"
+      },
+      "backstory": "Mai là một học sinh trung học năng động, đam mê văn hóa K-pop, người đã tiết kiệm tiền để mua một món đồ phiên bản giới hạn trên mạng.",
+      "reference_prompt": {
+        "references_needed": [],
+        "prompt": "Create a detailed character reference sheet for \"Mai\" of Vietnamese ethnicity for comic book use.\n\nCHARACTER IDENTITY:\n- Name: Mai\n- Role: Protagonist\n- Nationality/Ethnicity: Vietnamese\n\nMAIN VIEW - Full body standing neutral pose:\n- Height/Build: 160cm, slim build\n- Skin tone: Light-medium warm tone\n- Hair: Natural black, shoulder-length, straight\n- Eyes: Dark brown, large and expressive\n- Expression: Neutral/friendly\n\nClothing:\n- Casual homewear: simple t-shirt and shorts.\n\nADDITIONAL VIEWS:\n- Expression samples: Shocked, Horrified, Disappointed, Sad.\n\nSTYLE:\n- Art style: Modern Manga\n- Color: Full color with shading\n- Background: White\n\nCRITICAL REQUIREMENTS:\n- Character must appear authentically as Vietnamese\n- Physical features accurate to ethnicity."
+      }
+    }
+  ],
+  "pages": [
+    {
+      "page_number": 1,
+      "page_title": "404 - Hy Vọng Không Tìm Thấy",
+      "page_summary": "Mai ngồi một mình trong bóng tối, đối mặt với màn hình máy tính hiển thị lỗi 404, và nhận ra rằng mình đã bị lừa mất số tiền tiết kiệm.",
+      "characters_on_page": ["Mai"],
+      "panels": [
+        {
+          "panel_number": 1,
+          "scene_description": "Trong căn phòng ngủ tối, Mai ngồi chết lặng trước màn hình laptop. Ánh sáng lạnh lẽo từ màn hình chiếu rọi khuôn mặt thất thần của cô. Màn hình hiển thị một thông báo lỗi '404 Not Found' lạnh lùng. Xung quanh cô, những hình ảnh mờ ảo, kỹ thuật số của món đồ K-pop mà cô hằng ao ước đang tan vỡ thành những mảnh pixel. Tay cô buông thõng, chiếc điện thoại rơi xuống giường bên cạnh, biểu hiện cho sự sụp đổ của niềm hy vọng.",
+          "characters_in_panel": ["Mai"],
+          "camera": {
+            "angle": "Medium close-up",
+            "distance": "Medium",
+            "perspective": "Slightly high angle"
+          },
+          "characters": [
+            {
+              "name": "Mai",
+              "action": "Ngồi bất động trên ghế, mắt mở to dán vào màn hình nhưng với ánh nhìn trống rỗng. Một tay vẫn đặt hờ trên bàn phím, tay kia buông thõng khi chiếc điện thoại vừa rơi khỏi tay.",
+              "expression": "Sốc, không tin nổi, và bắt đầu tuyệt vọng. Nước mắt bắt đầu lưng tròng.",
+              "position": "Trung tâm khung hình, hơi lệch về một bên để tạo cảm giác mất cân bằng."
+            }
+          ],
+          "setting": {
+            "environment": "Phòng ngủ của Mai chìm trong bóng tối, chỉ có ánh sáng từ laptop. Căn phòng, vốn được trang trí bằng các poster vui tươi, giờ đây lại mang vẻ lạnh lẽo, xa lạ.",
+            "cultural_elements": "Poster K-pop trên tường giờ đây như một sự chế nhạo.",
+            "atmosphere": "Lạnh lẽo, tuyệt vọng và cô đơn."
+          },
+          "lighting": {
+            "source": "Chỉ có ánh sáng lạnh, vô cảm từ màn hình laptop.",
+            "color_palette": "Gam màu xanh xám, thiếu sức sống. Độ tương phản cao giữa ánh sáng và bóng tối để nhấn mạnh sự cô lập.",
+            "atmosphere": "Nặng nề, tĩnh lặng đến đáng sợ.",
+            "overall_feeling": "Sự sụp đổ và nhận ra sự thật đau lòng."
+          },
+          "text_elements": {
+            "dialogues": [],
+            "captions": [
+              {
+                "text": "Mình... bị lừa rồi sao...?",
+                "english_translation": "Have I... been scammed...?",
+                "type": "Internal monologue",
+                "position": "Góc dưới cùng của khung hình, với font chữ run rẩy, mờ nhạt."
+              }
+            ],
+            "sound_effects": []
+          },
+          "panel_prompt": {
+            "references_needed": [
+              "Character Mai reference image"
+            ],
+            "prompt": "Create a single, highly dramatic comic book panel in a Modern Manga style with a Vietnamese cultural context.\n\nPANEL SPECIFICATIONS:\n- Aspect ratio: 2:3\n- Cultural setting: Modern Vietnam\n\nCAMERA:\n- Angle: Medium close-up\n- Perspective: Slightly high angle, looking down to emphasize vulnerability.\n\nSCENE: The entire story is told in this one moment of devastating realization. A teenage girl, Mai, sits frozen in her dark bedroom, illuminated only by the cold, blue-white light of her laptop screen. The screen itself prominently displays a stark \"404 Not Found\" error message.\n\nCHARACTER:\nMai (Vietnamese):\n- Use the uploaded character reference.\n- Action/Pose: She is sitting rigidly, staring blankly at the screen. Her body language is defeated. One hand is limp, having just dropped her smartphone onto the bed beside her.\n- Expression: A look of utter shock, disbelief, and dawning horror. Her eyes are wide, and a single tear is beginning to form.\n- Position: Centered, but slightly off-balance to create unease.\n\nSETTING/BACKGROUND:\n- Her bedroom is dark and filled with shadows. K-pop posters on the wall are visible but obscured, adding to the sense of isolation.\n- Visual effect: Faint, glitchy, holographic images of the K-pop lightstick she dreamed of buying are dissolving into pixels around her, symbolizing her shattered hopes.\n\nLIGHTING AND MOOD:\n- Light source: The harsh, unforgiving glow from the laptop screen is the only light.\n- Color palette: Dominated by deep blues, blacks, and greys, with the stark white of the screen cutting through the darkness.\n- Atmosphere: Crushing disappointment, silence, and solitude.\n- Overall feeling: The heartbreaking moment of a harsh lesson learned.\n\nTEXT ELEMENTS (in Vietnamese):\n- Internal Monologue (at the bottom, in a shaky, faint font):\n\"Mình... bị lừa rồi sao...?\"\n\nCRITICAL REQUIREMENTS:\n- Use the uploaded character reference for Mai for consistency.\n- The character must appear authentically Vietnamese.\n- The panel must convey a powerful sense of shock and emotional devastation in a single image.\n- All text must be in Vietnamese."
+          }
+        }
+      ]
+    }
+  ]
+}

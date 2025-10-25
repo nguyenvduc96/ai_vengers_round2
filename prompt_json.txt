@@ -1,0 +1,297 @@
+COMIC SPECIFICATIONS:
+
+
+TOPIC: Cảnh báo về vấn nạn lừa đảo trực tuyến cho học sinh trung học cơ sở và trung học phổ thông tại Việt Nam
+STORY LANGUAGE: Vietnamese
+CHARACTER NATIONALITY/ETHNICITY: Vietnamese
+TOTAL PAGES: 5 pages (excluding cover)
+ASPECT RATIO: 2:3
+TARGET AUDIENCE: Middle and High School Students (Ages 11-18)
+GENRE: Edutainment/ Slice of Life
+TONE: Educational, Cautionary, Empowering, Relatable
+ART STYLE: Modern Manga
+
+---
+
+
+OUTPUT FORMAT: JSON
+
+Provide your output in the following JSON structure:
+
+
+```json
+{
+ "comic_info": {
+   "title": "Comic title in STORY LANGUAGE",
+   "subtitle": "Optional subtitle in STORY LANGUAGE",
+   "genre": "Genre and sub-genre",
+   "target_audience": "Age range and demographic",
+   "tone": "Tone description",
+   "art_style": "Art style",
+   "total_pages": number,
+   "aspect_ratio": "ratio",
+   "story_language": "language",
+   "cultural_setting": "nationality/culture"
+ },
+  "story_overview": {
+   "theme": "Core theme/message in 1-2 sentences",
+   "setting": {
+     "time_period": "When story takes place",
+     "location": "Where story takes place",
+     "world_description": "Key details about world/environment",
+     "cultural_context": "How nationality/culture influences setting"
+   },
+   "summary": "3-5 sentence story summary in STORY LANGUAGE",
+   "story_outline": [
+     {
+       "pages": "1-X",
+       "phase": "Setup",
+       "description": "What happens"
+     },
+     {
+       "pages": "X-Y",
+       "phase": "Development",
+       "description": "What happens"
+     },
+     {
+       "pages": "Y-Z",
+       "phase": "Climax",
+       "description": "What happens"
+     },
+     {
+       "pages": "Z-End",
+       "phase": "Resolution",
+       "description": "What happens"
+     }
+   ],
+   "key_plot_points": [
+     "Major event 1",
+     "Major event 2",
+     "Major event 3"
+   ],
+   "emotional_journey": "How emotional tone evolves",
+   "cultural_elements": "Cultural references or language elements"
+ },
+  "characters": [
+   {
+     "id": 1,
+     "name": "Culturally appropriate name",
+     "name_pronunciation": "English pronunciation if needed",
+     "role": "Protagonist/Antagonist/Supporting/etc.",
+     "age": "age",
+     "gender": "gender",
+     "nationality": "nationality/ethnicity",
+     "cultural_background": "Brief cultural context",
+     "personality_traits": ["trait1", "trait2", "trait3"],
+     "appears_on_pages": [1, 2, 3, 5, 7],
+    
+     "physical_appearance": {
+       "height_build": "description",
+       "hair_color": "color appropriate for ethnicity",
+       "hair_style": "style considering cultural styles",
+       "hair_length": "length",
+       "eye_color": "color appropriate for ethnicity",
+       "eye_shape": "shape considering ethnic features",
+       "skin_tone": "tone appropriate for ethnicity",
+       "distinctive_features": "scars, tattoos, accessories - culturally appropriate",
+       "facial_features": "jawline, nose, mouth, eyebrows - ethnic characteristics"
+     },
+    
+     "clothing": {
+       "top": "description with cultural elements",
+       "bottom": "description",
+       "footwear": "culturally appropriate",
+       "outerwear": "if relevant",
+       "accessories": "jewelry, bags, hats - culturally appropriate",
+       "color_scheme": {
+         "primary": "color",
+         "secondary": "color",
+         "accent": "color"
+       },
+       "style": "Traditional/Modern fusion/casual/formal/etc."
+     },
+    
+     "personality": {
+       "default_expression": "Determined/Cheerful/Serious/etc.",
+       "body_language": "Posture, gestures - culturally appropriate",
+       "speaking_style": "Formal/Casual/Energetic/etc."
+     },
+    
+     "motivation": {
+       "primary_goal": "What they want",
+       "internal_conflict": "What holds them back"
+     },
+    
+     "backstory": "2-3 sentences about character history with cultural background",
+    
+     "reference_prompt": {
+       "references_needed": [],
+       "prompt": "Create a detailed character reference sheet for \"[Character Name]\" of [nationality/ethnicity] for comic book use.\n\nCHARACTER IDENTITY:\n- Display character name as text in image: \"[Character Name]\"\n- Role: [role]\n- Nationality/Ethnicity: [ethnicity]\n\nMAIN VIEW - Full body standing neutral pose:\n- Height/Build: [description]\n- Skin tone: [tone]\n- Hair: [color], [style], [length]\n- Eyes: [color], [shape]\n- Facial features: [detailed ethnic characteristics]\n- Expression: Neutral/friendly\n- Distinctive features: [details]\n\nClothing:\n- Top: [description]\n- Bottom: [description]\n- Footwear: [description]\n- Accessories: [details]\n- Colors: [color scheme]\n- Style: [cultural style]\n\nADDITIONAL VIEWS:\n- Close-up face (front view): Detailed facial features\n- Close-up face (3/4 view): Alternative angle\n- Expression samples: Happy, Angry, Sad, Surprised\n\nCULTURAL DETAILS:\n- [Cultural clothing elements]\n- [Traditional accessories]\n- [Design patterns or motifs]\n\nSTYLE:\n- Art style: [art style]\n- Line quality: Clean, consistent lines\n- Color: Full color with shading\n- Background: White or transparent\n- Name label: \"[Character Name]\"\n\nCRITICAL REQUIREMENTS:\n- Character must appear authentically as [nationality/ethnicity]\n- Physical features accurate to ethnicity\n- Clothing reflects cultural background\n- Include character name as visible text\n- Maintain consistency across all views\n- Cultural elements respectful and accurate"
+     }
+   }
+ ],
+  "cover": {
+   "title": "Cover title in STORY LANGUAGE",
+   "visual_hook": "What makes cover grab attention",
+   "characters_on_cover": ["Character 1", "Character 2"],
+  
+   "cover_prompt": {
+     "references_needed": ["Character 1 reference", "Character 2 reference"],
+     "prompt": "Create a dynamic comic book cover in [art style] style with [nationality/cultural] context.\n\nSPECIFICATIONS:\n- Aspect ratio: [ratio]\n- Cultural setting: [culture]\n- Art style: [style]\n\nCOMPOSITION:\n- Main focus: [Primary character or scene]\n- Layout: [Centered/Dynamic diagonal/etc.]\n\nCHARACTER(S):\n[Character name] (of [nationality/ethnicity]):\n- Use uploaded reference image for [Character name]\n- Pose: [Dramatic action/pose]\n- Expression: [Heroic/Determined/etc.]\n- Position: [Placement on cover]\n- Ensure ethnic features match reference: [features]\n- Clothing: [As shown in reference]\n\nBACKGROUND/SETTING:\n[Environment reflecting story and culture]\n[Atmospheric elements]\n[Cultural architectural or landscape elements]\n\nACTION/DRAMA:\n[Dynamic scene happening]\n[Visual effects: energy, motion, lighting]\n\nLIGHTING:\n- Light source: [Dramatic lighting]\n- Color palette: [Bold colors]\n- Atmosphere: [Epic/Mysterious/Exciting]\n- Effects: [Glows, particles, weather]\n\nTEXT ELEMENTS (in [STORY LANGUAGE]):\n\nTITLE (top/center, large and bold):\n\"[Comic Title in STORY LANGUAGE]\"\n- Font: [Script type]\n- Style: Bold, eye-catching, genre-appropriate\n- Color: [Contrasting]\n- Effects: Outline, shadow, or glow\n\nSUBTITLE (if applicable):\n\"[Subtitle in STORY LANGUAGE]\"\n- Position: Below or near title\n\nCREDITS (bottom, small):\nWriter: [Name]\nArtist: [Name]\n\nREQUIREMENTS:\n- Use uploaded character references for consistency\n- Characters match reference sheets exactly\n- Characters appear authentically as [nationality/ethnicity]\n- Title in [STORY LANGUAGE] clearly legible\n- Cultural elements accurate and respectful\n- Composition fits specified aspect ratio\n- Font supports [STORY LANGUAGE script]"
+   }
+ },
+  "pages": [
+   {
+     "page_number": 1,
+     "page_title": "Page title in STORY LANGUAGE",
+     "page_summary": "Brief description of what happens on this page",
+     "characters_on_page": ["Character 1", "Character 2"],
+    
+     "panels": [
+       {
+         "panel_number": 1,
+         "scene_description": "What happens in this panel",
+         "characters_in_panel": ["Character 1"],
+        
+         "camera": {
+           "angle": "Close-up/Medium shot/Wide shot/etc.",
+           "distance": "Close-up/Medium/Long shot/etc.",
+           "perspective": "Straight-on/Low angle/High angle/etc."
+         },
+        
+         "characters": [
+           {
+             "name": "Character 1",
+             "action": "Detailed action and body position",
+             "expression": "Specific facial expression and emotion",
+             "position": "Where character is located in frame"
+           }
+         ],
+        
+         "setting": {
+           "environment": "Detailed environment description",
+           "cultural_elements": "Cultural elements in setting",
+           "atmosphere": "Atmospheric details"
+         },
+        
+         "lighting": {
+           "source": "Direction and type of light",
+           "color_palette": "Dominant colors",
+           "atmosphere": "Weather, mood, effects",
+           "overall_feeling": "Emotion this panel conveys"
+         },
+        
+         "text_elements": {
+           "dialogues": [
+             {
+               "speaker": "Character 1",
+               "text": "Dialogue in STORY LANGUAGE",
+               "english_translation": "English translation",
+               "type": "Speech/Thought/Shout/Whisper",
+               "position": "Location in panel",
+               "balloon_points_to": "character name"
+             }
+           ],
+           "captions": [
+             {
+               "text": "Narration in STORY LANGUAGE",
+               "english_translation": "English translation",
+               "type": "Narration/Time-location/Internal monologue",
+               "position": "Location in panel"
+             }
+           ],
+           "sound_effects": [
+             {
+               "text": "Sound effect in culturally appropriate style",
+               "position": "Location in panel",
+               "style": "Bold/Jagged/Large/etc."
+             }
+           ]
+         },
+        
+         "panel_prompt": {
+           "references_needed": [
+             "Character 1 reference image",
+             "Previous panel: None (first panel)"
+           ],
+           "prompt": "Create a comic book panel in [art style] style with [nationality/cultural] context.\n\nPANEL SPECIFICATIONS:\n- Aspect ratio: [ratio]\n- Cultural setting: [culture]\n\nCAMERA:\n- Angle: [angle]\n- Distance: [distance]\n- Perspective: [perspective]\n\nSCENE: [Detailed description of what's happening]\n\nCHARACTERS:\n[Character name] (of [nationality/ethnicity]):\n- Use uploaded character reference image for [Character name]\n- Action/Pose: [Detailed action and body position]\n- Expression: [Specific facial expression and emotion]\n- Position in frame: [Where character is located]\n- Ensure appearance matches reference: skin tone, facial features, hair, eyes, clothing\n\nSETTING/BACKGROUND:\n[Detailed environment description]\n[Cultural elements in the setting]\n[Atmospheric details]\n\nLIGHTING AND MOOD:\n- Light source: [Direction and type]\n- Color palette: [Dominant colors, cultural symbolism]\n- Atmosphere: [Weather, mood, effects]\n- Overall feeling: [Emotion this panel conveys]\n\nTEXT ELEMENTS (in [STORY LANGUAGE]):\n\nDialogue Balloon 1 (position: [location], pointing to [character]):\n\"[Character name]\" says: \"[Exact dialogue in STORY LANGUAGE]\"\n- Balloon type: [Speech/Thought/Shout/Whisper]\n- Font: [Script type]\n\nCaption Box (position: [location]):\n\"[Narration text in STORY LANGUAGE]\"\n- Type: [Narration/Time-location/Internal monologue]\n\nSound Effect (position: [location]):\n\"[Sound effect in culturally appropriate style]\"\n- Style: [Bold/Jagged/Large/Integrated]\n\nCRITICAL REQUIREMENTS:\n- Use uploaded character reference images for consistency\n- Characters must match reference sheets exactly\n- All text in [STORY LANGUAGE] and clearly legible\n- Maintain specified aspect ratio\n- Cultural elements accurate and respectful"
+         }
+       },
+       {
+         "panel_number": 2,
+         "scene_description": "What happens in this panel",
+         "characters_in_panel": ["Character 1"],
+        
+         "camera": {
+           "angle": "angle",
+           "distance": "distance",
+           "perspective": "perspective"
+         },
+        
+         "characters": [
+           {
+             "name": "Character 1",
+             "action": "action",
+             "expression": "expression",
+             "position": "position"
+           }
+         ],
+        
+         "setting": {
+           "environment": "environment",
+           "cultural_elements": "cultural elements",
+           "atmosphere": "atmosphere"
+         },
+        
+         "lighting": {
+           "source": "source",
+           "color_palette": "colors",
+           "atmosphere": "mood",
+           "overall_feeling": "feeling"
+         },
+        
+         "text_elements": {
+           "dialogues": [],
+           "captions": [],
+           "sound_effects": []
+         },
+        
+         "panel_prompt": {
+           "references_needed": [
+             "Character 1 reference image",
+             "Previous panel: Panel 1 (for continuity)"
+           ],
+           "prompt": "[Full panel prompt as above]"
+         }
+       }
+     ]
+   },
+   {
+     "page_number": 2,
+     "page_title": "Page title in STORY LANGUAGE",
+     "page_summary": "Description",
+     "characters_on_page": ["Character 1", "Character 2"],
+    
+     "panels": [
+       {
+         "panel_number": 1,
+         "scene_description": "What happens",
+         "characters_in_panel": ["Character 1", "Character 2"],
+        
+         "panel_prompt": {
+           "references_needed": [
+             "Character 1 reference image",
+             "Character 2 reference image",
+             "Previous panel: Last panel of Page 1 (for continuity across pages)"
+           ],
+           "prompt": "[Full panel prompt]"
+         }
+       }
+     ]
+   }
+ ]
+}
+```
+---
+
+You generate full prompt for first 2 pages first.

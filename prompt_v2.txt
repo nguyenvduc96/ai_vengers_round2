@@ -1,0 +1,871 @@
+You are an expert comic book writer and character designer. I need you to create a complete comic book plan with cover and full story script.
+
+COMIC SPECIFICATIONS:
+
+
+TOPIC: Cảnh báo về vấn nạn lừa đảo trực tuyến cho học sinh trung học cơ sở và trung học phổ thông tại Việt Nam
+
+
+STORY LANGUAGE: Vietnamese
+- Note: ALL story dialogue, narration, captions, and character speech must be written in this language
+- The cover title can optionally use this language or English
+
+
+CHARACTER NATIONALITY/ETHNICITY: Vietnamese
+- Note: Character names, physical features, clothing styles, and cultural elements should reflect this setting
+
+
+TOTAL PAGES: 5 pages (excluding cover)
+
+
+MAXIMUM PANELS PER PAGE: 1 panels maximum
+
+
+ASPECT RATIO: 2:3
+- This applies to all pages and panels
+
+
+TARGET AUDIENCE: Middle and High School Students (Ages 11-18)
+
+
+GENRE: Edutainment/ Slice of Life
+
+
+TONE: Educational, Cautionary, Empowering, Relatable
+
+
+ART STYLE: Modern Manga
+
+- Note: This style will be consistently applied to the cover and all panels
+
+FORMAT:
+    - Cover: 1 page, full color.
+    - Content pages: Black and white
+
+---
+
+
+IMPORTANT INSTRUCTIONS FOR LANGUAGE AND CULTURAL ADAPTATION:
+
+
+1. LANGUAGE IMPLEMENTATION:
+  - Write ALL dialogue in the specified STORY LANGUAGE
+  - Write ALL narration/captions in the specified STORY LANGUAGE
+  - Write ALL sound effects appropriately (can use onomatopoeia from that language)
+  - Character names should be culturally appropriate for their nationality
+  - Keep prompt instructions and technical terms in English
+  - Provide English translations in parentheses for non-English dialogue in the script section only
+
+
+2. CHARACTER CULTURAL AUTHENTICITY:
+  - Physical features should reflect specified nationality/ethnicity
+  - Names should be culturally appropriate
+  - Clothing styles should consider cultural context
+  - Body language and gestures should be culturally appropriate
+  - Speech patterns and formality should match cultural norms
+  - Settings and backgrounds should reflect the cultural context when relevant
+
+
+3. PANEL LIMITS:
+  - No page should exceed the specified MAXIMUM PANELS PER PAGE
+  - Distribute panels strategically based on story pacing
+  - Use fewer panels (1-2) for impactful moments
+  - Use more panels (up to maximum) for dialogue-heavy or action sequences
+  - Clearly specify panel count for each page
+
+
+4. CHARACTER REFERENCE LABELING:
+  - CRITICAL: Each character reference image must include the character's name as visible text within the image
+  - This helps identify which character reference to use when generating panels
+  - Name should be clear and readable in the reference image
+
+
+5. PANEL CHARACTER IDENTIFICATION:
+  - CRITICAL: Each panel description must clearly list which characters appear in that panel
+  - This helps users know which character reference images to attach when generating that specific panel
+  - Format: "Characters in this panel: [Character 1], [Character 2]"
+
+
+---
+
+
+Please provide the following in a structured, sequential format:
+
+
+---
+
+
+PART 1: STORY OVERVIEW AND COMPLETE SCRIPT
+
+
+Section 1.1 - STORY OVERVIEW
+
+
+Provide:
+
+
+Comic Title: [Create an engaging, memorable title in STORY LANGUAGE]
+Subtitle (if applicable): [Optional tagline in STORY LANGUAGE]
+
+
+Genre: [Specific genre and sub-genre]
+Target Audience: [Age range and demographic]
+Tone: [Specific tone description]
+Core Theme/Message: [Main message or moral in 1-2 sentences]
+Setting:
+- Time Period: [When the story takes place]
+- Location: [Where the story takes place - should align with character nationality if specified]
+- World Description: [Key details about the world/environment]
+- Cultural Context: [How the specified nationality/culture influences the setting]
+Story Arc Summary: [3-5 sentence comprehensive summary of the complete story in STORY LANGUAGE]
+Pacing Strategy: [How the story flows across all pages - setup, development, climax, resolution]
+Language Notes: [Any specific language or cultural elements that are important to the story]
+Estimated Reading Time: [Approximate time to read the complete comic]
+
+
+---
+
+
+Section 1.2 - COMPLETE STORY SCRIPT
+
+
+Provide a FULL narrative script for the entire comic in the specified STORY LANGUAGE.
+
+
+For EACH page, provide:
+
+
+---
+
+
+PAGE [NUMBER]: [Page Title in STORY LANGUAGE]
+
+
+Scene: [Brief scene description - location, time, atmosphere in STORY LANGUAGE]
+
+
+Action/Narration (STORY LANGUAGE description):
+[Write the action and narrative description of what happens on this page in prose form. Describe character movements, emotions, environment changes, and story progression. Write this in STORY LANGUAGE.]
+
+
+Dialogue/Conversations (in STORY LANGUAGE):
+
+
+NARRATOR (if applicable):
+"[Narration text in STORY LANGUAGE]"
+
+
+[CHARACTER NAME]:
+"[Exact dialogue in STORY LANGUAGE]"
+
+
+NARRATOR:
+"[Additional narration in STORY LANGUAGE]"
+
+
+Sound Effects (culturally appropriate):
+- [Sound effect in appropriate language/style]: [When it happens - STORY LANGUAGE description]
+
+
+Internal Thoughts (if applicable):
+[CHARACTER NAME] (thinking):
+"[Internal monologue in STORY LANGUAGE]"
+
+
+Story Notes: [Any important context, emotional beats, or foreshadowing - in English]
+
+
+Cultural Notes: [Any cultural-specific elements, gestures, or references in this page - in STORY LANGUAGE]
+
+
+Key Moments: [Highlight the most important moment(s) on this page - in STORY LANGUAGE]
+
+
+Transition to Next Page: [How this page connects to the next - in STORY LANGUAGE]
+
+
+---
+
+
+[Repeat for all pages]
+
+
+---
+
+
+Section 1.3 - SCRIPT SUMMARY
+
+
+Provide:
+
+
+Total Word Count: [Approximate word count of all dialogue and narration in STORY LANGUAGE]
+
+
+Dialogue Distribution:
+- [Character 1 with culturally appropriate name]: [Number of lines/words]
+- [Character 2 with culturally appropriate name]: [Number of lines/words]
+- Narration: [Number of caption boxes]
+
+
+Key Plot Points:
+1. [Page X]: [Major plot point - in STORY LANGUAGE]
+2. [Page Y]: [Major plot point - in STORY LANGUAGE]
+3. [Page Z]: [Major plot point - in STORY LANGUAGE]
+
+
+Emotional Arc:
+- Beginning: [Emotional state - in STORY LANGUAGE]
+- Middle: [Emotional state - in STORY LANGUAGE]
+- End: [Emotional state - in STORY LANGUAGE]
+
+
+Language/Cultural Elements Used:
+- [List any specific cultural references, idioms, or language-specific elements used in the story]
+
+
+---
+
+
+PART 2: MAIN CHARACTER DESIGNS
+
+
+For each main character (recommend 2-4 characters maximum), provide:
+
+
+---
+
+
+Character [Number]: [Culturally Appropriate Name]
+[English name meaning or pronunciation if needed]: [Explanation]
+
+
+Basic Info:
+- Role: (Protagonist, Antagonist, Supporting, Mentor, Comic Relief, etc.)
+- Age and Gender:
+- Nationality/Ethnicity: [As specified in settings, or auto-determined]
+- Cultural Background: [Brief description of cultural context]
+- Archetype: (Hero, Trickster, Mentor, Shadow, etc.)
+- Appears on Pages: [List page numbers where this character appears]
+
+
+Physical Appearance (reflecting nationality/ethnicity):
+- Height/Build: (Consider cultural average if relevant)
+- Hair:
+ * Color: [Appropriate for ethnicity]
+ * Style: [Consider cultural hair styles]
+ * Length:
+- Eyes:
+ * Color: [Appropriate for ethnicity]
+ * Shape: [Consider ethnic features]
+ * Expression:
+- Skin Tone: [Appropriate for ethnicity]
+- Distinctive Features: (Scars, tattoos, birthmarks, accessories - culturally appropriate)
+- Facial Features: (Jawline, nose, mouth, eyebrows - consider ethnic characteristics)
+
+
+Clothing/Outfit (culturally appropriate):
+- Primary Outfit:
+ * Top: [Consider cultural clothing styles]
+ * Bottom: [Consider cultural clothing styles]
+ * Footwear: [Culturally appropriate]
+ * Outerwear: [If relevant to culture/climate]
+- Accessories: (Jewelry, bags, hats, glasses - culturally appropriate items)
+- Color Scheme: Primary, secondary, and accent colors (consider cultural color meanings if relevant)
+- Style Notes: (Traditional/Modern fusion, casual, formal, etc.)
+- Cultural Elements: [Any traditional or cultural items incorporated]
+
+
+Personality and Expression:
+- Default Expression: (Determined, cheerful, serious, mischievous, etc.)
+- Posture: (Confident, slouched, alert, relaxed - consider cultural body language)
+- Body Language: (Gestures, stance, movement style - culturally appropriate)
+- Voice/Speech Pattern: (How they speak, pace, tone - in STORY LANGUAGE)
+- Core Personality Traits: (3-5 defining characteristics)
+- Motivations: (What drives this character)
+- Fears/Weaknesses: (What challenges them)
+
+
+Backstory (Brief):
+- Origin: [Where they come from - cultural context]
+- Background: [Key life events that shaped them]
+- Relationship to other characters: [Connections]
+- Cultural Influences: [How their cultural background affects their personality and choices]
+
+
+Character Arc:
+- Beginning state: [Who they are at the start]
+- Development: [How they change]
+- End state: [Who they become]
+
+
+Signature Elements:
+- Catchphrase/Saying: (Optional, in STORY LANGUAGE)
+- Unique mannerism: (Gesture, habit, or behavior)
+- Symbolic item: (Object associated with character)
+- Cultural marker: (Something that clearly shows their cultural background)
+
+
+Character Reference Description:
+- Overall vibe: [The feeling this character should give]
+- Key identifier: [Most recognizable feature]
+- Must include in every panel: [Non-negotiable character elements]
+- IMPORTANT: Character name must be included as visible text in the reference image
+
+
+---
+
+
+[Repeat character section for each main character]
+
+
+---
+
+
+PART 3: COVER DESIGN
+
+
+COVER SPECIFICATIONS:
+
+
+Aspect Ratio: [SPECIFIED RATIO]
+Title Language: [STORY LANGUAGE or English, as specified]
+Cultural Context: [Nationality/cultural elements to reflect]
+
+
+Cover Title: [Comic title in chosen language]
+Subtitle: [Optional tagline]
+Cover Composition Description:
+
+
+Main Visual Elements:
+- Central focus: [Primary image - main character(s) or key scene]
+- Character poses: [How main characters are positioned - use reference images]
+- Background: [Setting that represents the story world with cultural elements]
+- Action/Scene: [What's happening in the cover image]
+- Cultural elements: [How the setting reflects the specified nationality/culture]
+
+
+Color Scheme:
+- Dominant colors: [Main color palette]
+- Accent colors: [Highlight colors]
+- Mood: [Overall feeling - dramatic, cheerful, mysterious, etc.]
+- Cultural color symbolism: [If relevant to the culture]
+
+
+Typography:
+- Title placement: [Top/center/bottom]
+- Title style: [Bold, elegant, action-style, etc.]
+- Font considerations: [Must support STORY LANGUAGE script if non-Latin]
+- Additional text: [Author name, issue number, tagline, etc.]
+
+
+Cover Layout:
+- Foreground: [What's in front]
+- Midground: [Middle layer]
+- Background: [Back layer with cultural setting]
+- Focal point: [Where eye is drawn first]
+
+
+Text Elements:
+- Title in [STORY LANGUAGE/English]: "[EXACT TITLE]"
+- Subtitle/Tagline in [STORY LANGUAGE]: "[EXACT TEXT]"
+- Additional text: [Issue number, creator names, etc.]
+
+
+Cultural Elements on Cover:
+- [List specific cultural markers that should appear]
+- [Traditional patterns, architecture, clothing, symbols]
+- [Setting indicators - landscape, cityscape, cultural landmarks]
+
+
+Character Positioning on Cover:
+Character 1: [Name] - [Position, pose, expression]
+Use uploaded reference image for [Character name]
+Character 2: [Name] - [Position, pose, expression]
+Use uploaded reference image for [Character name]
+[Continue for all characters on cover]
+
+
+Special Effects:
+- Lighting: [Dramatic, natural, mystical, etc.]
+- Effects: [Energy, particles, atmospheric elements]
+- Frame elements: [Borders, decorative elements - culturally appropriate]
+
+
+---
+
+
+NANO BANANA COVER PROMPT:
+
+
+IMPORTANT: Upload character reference images for: [List all characters appearing on cover]
+
+
+Create a comic book cover in [art style] style with [nationality/cultural] context.
+
+
+COVER SPECIFICATIONS:
+Aspect ratio: [SPECIFIED RATIO]
+Cultural setting: [Nationality/culture to be reflected]
+Genre: [Genre] with [Tone] tone
+
+
+MAIN VISUAL:
+
+
+FOREGROUND:
+[Character 1 name] (of [nationality/ethnicity]) is [detailed pose and action].
+Use the uploaded reference image for [Character 1 name] to maintain consistency.
+Expression: [specific facial expression]
+Physical features: [Ethnic features - skin tone, facial structure, hair, eyes appropriate to ethnicity]
+Clothing: [Culturally appropriate attire]
+Body language: [Culturally appropriate gestures and posture]
+Position: [placement in cover]
+
+
+[Character 2 name] (of [nationality/ethnicity]) is [detailed pose and action].
+Use the uploaded reference image for [Character 2 name] to maintain consistency.
+[Continue description with ethnic and cultural details]
+
+
+[Continue for all characters]
+
+
+MIDGROUND:
+[Middle elements description]
+[Cultural objects if present]
+
+
+BACKGROUND:
+[Setting description]
+[Environmental details that may reflect cultural context]
+[Atmospheric elements]
+
+
+Lighting and Mood:
+- Light source: [Direction and type]
+- Shadows: [Harsh, soft, dramatic, minimal]
+- Color palette: [Dominant colors, consider cultural symbolism]
+- Atmosphere: [Weather, particles, effects]
+- Overall mood: [Emotion this cover conveys]
+
+
+TEXT ELEMENTS TO RENDER (in [STORY LANGUAGE or English]):
+
+
+TITLE (top/center/prominent):
+"[EXACT COVER TITLE]"
+Font: Large, bold, [style description]
+Font requirements: [Must support STORY LANGUAGE script if applicable]
+Color: [Contrasting color that stands out]
+Effects: [Outline, shadow, glow, etc.]
+
+
+SUBTITLE (if applicable):
+"[EXACT SUBTITLE TEXT in STORY LANGUAGE]"
+Font: [Style]
+Placement: [Below title/bottom of cover]
+
+
+ADDITIONAL TEXT:
+Issue number: [If applicable]
+Creator credits: [If applicable]
+Placement: [Bottom or top corners]
+
+
+CULTURAL ELEMENTS:
+[Specific cultural symbols, patterns, or architectural elements to include]
+[Traditional design elements that show the cultural setting]
+[Natural or urban landscape features typical of the culture]
+
+
+SPECIAL EFFECTS:
+[Dramatic lighting, energy effects, particles, etc.]
+
+
+COMPOSITION:
+- Focus: [Where viewer's eye should go first]
+- Balance: [How elements are distributed]
+- Depth: [Layers from front to back]
+
+
+CRITICAL REQUIREMENTS:
+- Use uploaded character reference images for consistency
+- Characters must match reference sheets exactly, including ethnic features
+- Characters must appear authentically as [nationality/ethnicity]
+- Title and text must be in [STORY LANGUAGE] and clearly legible
+- Text should not obscure important visual elements
+- Maintain consistent art style
+- Composition must fit specified aspect ratio
+- Cover should instantly convey genre, tone, and cultural setting
+- Cultural elements should be accurate and respectful
+- Ensure proper font support for [STORY LANGUAGE script]
+
+
+---
+
+
+PART 4: PANEL-BY-PANEL BREAKDOWN
+
+
+Format for each page:
+
+
+---
+
+
+PAGE [NUMBER] of [TOTAL]: [Page Title in STORY LANGUAGE]
+
+
+Characters Appearing on This Page: [List all character names]
+
+
+Script Reference: [Brief recap of what happens on this page from Part 1]
+
+
+Total Panels on This Page: [NUMBER] panels (within MAXIMUM PANELS PER PAGE limit)
+
+
+Page Flow Notes: [How panels should be read, overall page composition]
+
+
+---
+
+
+PANEL 1 (of [X] panels on this page)
+
+
+Characters in this panel: [Character names]
+- IMPORTANT: Upload these character reference images when generating this panel
+
+
+Panel Description:
+[Detailed description of what's happening in this panel]
+
+
+Camera and Composition:
+- Camera angle: (High angle, low angle, eye level, Dutch angle, bird's eye, worm's eye)
+- Camera distance: (Extreme close-up, close-up, medium shot, full shot, long shot, extreme long shot)
+- Framing: (Centered, rule of thirds, symmetrical, off-center)
+- Perspective: (One-point, two-point, three-point, isometric)
+- Panel size: (Full page, half page, quarter page, splash)
+
+
+Characters in Frame:
+
+
+Character 1: [Name]
+- Action/Pose: [What they're doing]
+- Expression: [Facial expression and emotion]
+- Position: [Where in panel - left, right, center, foreground, background]
+- Key visual details: [Important features to emphasize in this panel]
+- Cultural elements: [Any culturally specific gestures or items visible]
+- Reference note: Use uploaded reference image for [Character name]
+
+
+Character 2: [Name] (if present)
+[Repeat above structure]
+
+
+Objects/Props:
+- [List important objects visible]
+- [Cultural items if present]
+
+
+Setting and Environment:
+
+
+FOREGROUND:
+[Closest elements to viewer]
+[Cultural objects if present]
+
+
+MIDGROUND:
+[Middle distance elements]
+[Cultural objects if present]
+
+
+BACKGROUND:
+[Setting description]
+[Environmental details that may reflect cultural context]
+[Atmospheric elements]
+
+
+Lighting and Mood:
+- Light source: [Direction and type]
+- Shadows: [Harsh, soft, dramatic, minimal]
+- Color palette: [Dominant colors in this panel, consider cultural symbolism]
+- Atmosphere: [Weather, particles, effects]
+- Overall mood: [Emotion this panel conveys]
+
+
+---
+
+
+TEXT ELEMENTS TO INCLUDE (in STORY LANGUAGE):
+
+
+DIALOGUE BALLOONS:
+
+
+Balloon 1:
+- Speaker: [Character name]
+- Text in STORY LANGUAGE: "[Exact dialogue from script in STORY LANGUAGE]"
+- English Translation: "[Translation for reference]"
+- Type: [Speech / Thought / Whisper / Shout / Electronic / Telepathy]
+- Placement: [Top-left / Center / Bottom-right / etc.]
+- Tail direction: [Pointing to speaker's mouth/head]
+- Size: [Small / Medium / Large]
+- Style notes: [Bold words, italics, special formatting]
+- Reading direction: [Specify if right-to-left or other non-standard reading]
+
+
+Balloon 2:
+- Speaker: [Character name]
+- Text in STORY LANGUAGE: "[Exact dialogue from script in STORY LANGUAGE]"
+- English Translation: "[Translation for reference]"
+- Type: [Speech / Thought / etc.]
+- Placement: [Location]
+- Tail direction: [Direction]
+
+
+[Continue for all dialogue in this panel]
+
+
+---
+
+
+CAPTION BOXES:
+
+
+Caption 1:
+- Text in STORY LANGUAGE: "[Exact narration from script in STORY LANGUAGE]"
+- English Translation: "[Translation for reference]"
+- Type: [Narration / Time-location / Internal monologue / Flashback]
+- Placement: [Top / Bottom / Corner / Side]
+- Box style: [Rectangle / Scroll / Cloud / Integrated]
+- Background color: [If specific]
+
+
+[Continue for all captions]
+
+
+---
+
+
+SOUND EFFECTS:
+
+
+SFX 1:
+- Text: "[Sound effect in culturally appropriate style]" (e.g., Vietnamese: "ầm ầm!", English: "BOOM!", Japanese: "ドーン", etc.)
+- Placement: [Near sound source in panel]
+- Style: [Bold / Jagged / Smooth / Large / Integrated into art]
+- Color: [If specific color for effect]
+- Integration: [Overlaid / Behind art / Cut into scene]
+
+
+[Continue for all sound effects]
+
+
+---
+
+
+SIGNS/LABELS/READABLE TEXT:
+
+
+Text 1:
+- Content in STORY LANGUAGE: "[Text that appears in scene in STORY LANGUAGE]"
+- English Translation: "[Translation]"
+- Location: [On building, sign, screen, paper, etc.]
+- Readability: [Clearly readable / Partially visible / Background detail]
+
+
+---
+
+
+Visual Effects:
+- Motion lines: [If any - direction, intensity]
+- Speed lines: [If character/object moving]
+- Impact stars/effects: [For collisions]
+- Emphasis marks: [Shock lines, sweat drops, etc. - culturally appropriate style]
+- Other effects: [Sparkles, aura, etc.]
+
+
+Important Details:
+- Focus point: [What should grab attention first]
+- Symbolic elements: [Any visual metaphors, culturally relevant]
+- Foreshadowing: [Subtle hints for later]
+- Cultural details: [Important cultural elements to emphasize]
+
+
+Panel Border:
+- Type: [Standard / Thick / Thin / Broken / None / Irregular]
+- Color: [Usually black, specify if different]
+
+
+---
+
+
+NANO BANANA PANEL PROMPT:
+
+
+IMPORTANT: Upload character reference images for: [List character names in this panel]
+
+
+Create a comic book panel in [art style] style with [nationality/cultural] context.
+
+
+PANEL SPECIFICATIONS:
+Aspect ratio: [SPECIFIED RATIO]
+Panel size: [Relative size on page if multiple panels]
+Cultural setting: [Nationality/culture to be reflected]
+
+
+CAMERA:
+Angle: [specific camera angle]
+Distance: [camera distance]
+Perspective: [perspective type]
+
+
+VISUAL CONTENT:
+
+
+FOREGROUND:
+[Character name] (of [nationality/ethnicity]) is [detailed action and pose description].
+Use the uploaded reference image for [Character name] to maintain consistency.
+Expression: [specific facial expression]
+Physical features: [Ethnic features - skin tone, facial structure, hair, eyes appropriate to ethnicity]
+Clothing: [Culturally appropriate attire]
+Body language: [Culturally appropriate gestures and posture]
+Position: [placement in frame]
+
+
+MIDGROUND:
+[Middle elements description]
+[Cultural objects if present]
+
+
+BACKGROUND:
+[Setting details that may reflect cultural context]
+[Environmental elements]
+[Atmospheric conditions]
+Cultural environment: [Architecture, landscape, or objects that show cultural setting]
+
+
+LIGHTING AND ATMOSPHERE:
+Light source: [description]
+Color palette: [colors, consider cultural color symbolism]
+Mood: [emotional tone]
+Effects: [special effects, particles]
+
+
+TEXT ELEMENTS TO RENDER (in [STORY LANGUAGE]):
+
+
+DIALOGUE BALLOON (top-left, tail pointing to [character]):
+"[Character name]" says in [STORY LANGUAGE]: "[Exact dialogue text in STORY LANGUAGE]"
+Style: [Speech/Thought/Shout] balloon
+Font: [Specify if non-Latin script: Vietnamese, Japanese, Korean, Chinese, Thai, Arabic, etc.]
+Reading direction: [Left-to-right or specify alternative]
+
+
+DIALOGUE BALLOON (center-right, tail pointing to [character]):
+"[Character name]" says in [STORY LANGUAGE]: "[Exact dialogue text in STORY LANGUAGE]"
+Style: [Speech/Thought/Shout] balloon
+Font: [Same language script]
+
+
+CAPTION BOX (top of panel):
+"[Narration text in STORY LANGUAGE]"
+Style: [Narration/Time-location] box
+Font: [Same language script]
+
+
+SOUND EFFECT (center-right, near action):
+"[SOUND EFFECT in culturally appropriate style]"
+Style: Bold, [stylistic notes]
+
+
+SIGNS/TEXT IN SCENE (if any):
+"[Text in STORY LANGUAGE on signs, screens, etc.]"
+Location: [where it appears]
+
+
+[List ALL text elements with exact placement]
+
+
+SPECIAL EFFECTS:
+[Motion lines, impact effects, etc. - style may vary by cultural art traditions]
+
+
+PANEL BORDER:
+[Border type and style]
+
+
+CRITICAL REQUIREMENTS:
+- Use uploaded character reference images for consistency
+- Character must match reference sheet exactly, including ethnic features
+- Character must appear authentically as [nationality/ethnicity]
+- All text must be in [STORY LANGUAGE] and clearly legible
+- Text should not obscure important visual elements
+- Maintain consistent art style
+- Composition must fit specified aspect ratio
+- Leave adequate space for text balloons and captions
+- Cultural elements should be accurate and respectful
+- Ensure proper font support for [STORY LANGUAGE script]
+
+
+---
+
+
+PANEL 2 (of [X] panels on this page)
+
+
+Characters in this panel: [Character names]
+- IMPORTANT: Upload these character reference images when generating this panel
+
+
+[Repeat complete structure for Panel 2]
+
+
+---
+
+
+PANEL 3 (of [X] panels on this page)
+
+
+Characters in this panel: [Character names]
+- IMPORTANT: Upload these character reference images when generating this panel
+
+
+[Repeat complete structure for Panel 3]
+
+
+---
+
+
+[Continue for all panels on this page, respecting MAXIMUM PANELS PER PAGE limit]
+
+
+---
+
+
+PAGE [NUMBER] of [TOTAL]: [Next Page Title]
+
+
+Characters Appearing on This Page: [List all character names]
+
+
+[Repeat entire page structure]
+
+
+---
+
+
+[Continue for ALL pages]
+
+
+---
+
+You MUST genetate ALL pages
