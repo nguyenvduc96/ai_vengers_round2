@@ -2,15 +2,17 @@
 
 **Đội thi:** AI_VENGERS  
 
+> **📝 Lưu ý:** README này được cập nhật sau khi cuộc thi kết thúc để dễ hiểu hơn về repo và quy trình làm việc của team. **Code và sản phẩm truyện tranh không thay đổi so với thời điểm nộp bài.** Chỉ có phần documentation (README.md) được cải thiện để trình bày rõ ràng hơn.
+
 ---
 
 ## MỤC LỤC
 
 1. [📖 Giới Thiệu](#-giới-thiệu)
-2. [🎯 Sản Phẩm](#-sản-phẩm)
-3. [👥 Character Reference Sheets](#-character-reference-sheets)
-4. [� Cốt Truyện: "Sập Bẫy Online"](#-cốt-truyện-sập-bẫy-online)
-5. [�🚀 Quy Trình Sáng Tạo Tự Động với AI](#-quy-trình-sáng-tạo-tự-động-với-ai)
+2. [📚 Cốt Truyện: "Sập Bẫy Online"](#-cốt-truyện-sập-bẫy-online)
+3. [🎯 Sản Phẩm](#-sản-phẩm)
+4. [👥 Character Reference Sheets](#-character-reference-sheets)
+5. [� Quy Trình Sáng Tạo Tự Động với AI](#-quy-trình-sáng-tạo-tự-động-với-ai)
 6. [💡 4 Điểm Đổi Mới Sáng Tạo trong Master Prompt](#-4-điểm-đổi-mới-sáng-tạo-trong-master-prompt)
    - [📦 Nested Prompts System](#1--nested-prompts-system-hệ-thống-lệnh-lồng-nhau)
    - [🔗 Cross-Page Continuity](#2--cross-page-continuity-tính-liên-tục-xuyên-trang)
@@ -29,6 +31,63 @@
 ## GIỚI THIỆU
 
 Dự án này sử dụng công nghệ AI tiên tiến để tự động hóa quy trình sáng tạo truyện tranh, từ việc phát triển cốt truyện, thiết kế nhân vật, đến tạo hình ảnh cho từng khung hình. Chúng mình áp dụng quy trình **"AI thực hiện 90% - Con người review 10%"** để tạo ra một bộ truyện tranh hoàn chỉnh về chủ đề cảnh báo lừa đảo trực tuyến.
+
+---
+
+## 📚 CỐT TRUYỆN: "SẬP BẪY ONLINE"
+
+### Tóm Tắt 5 Trang
+
+1. **Trang 1 - "404 - Hy Vọng Không Tìm Thấy"**  
+   Mai phát hiện website đã biến mất, nhận ra mình bị lừa đảo. Khoảnh khắc đau đớn của sự thật.
+
+2. **Trang 2 - "Cú Nhấp Chuột Vội Vã"**  
+   Flashback: Mai thuyết phục mẹ, háo hức nhập thông tin thanh toán để mua lightstick K-pop giảm giá.
+
+3. **Trang 3 - "Sự Im Lặng Đáng Sợ"**  
+   Một tuần trôi qua không có hàng. Mai kiểm tra và thấy thông báo "404 Not Found" - website đã biến mất.
+
+4. **Trang 4 - "Bài Học Đắt Giá"**  
+   Mẹ và bạn thân An an ủi Mai. Cả ba cùng tìm hiểu về dấu hiệu lừa đảo online.
+
+5. **Trang 5 - "Chia Sẻ Để Bảo Vệ"**  
+   Mai và An tạo bài đăng cảnh báo cho học sinh khác, biến nỗi đau thành bài học ý nghĩa.
+
+### Về Nhân Vật & Bối Cảnh
+
+**Mai - Nữ sinh 16 tuổi:**
+- ✅ Phù hợp tâm lý học sinh THCS & THPT
+- ✅ Tình huống thực tế: Mua lightstick K-pop online bị lừa đảo
+- ✅ Dễ đồng cảm với đối tượng độc giả
+- ✅ Bối cảnh văn hóa Việt Nam chân thực
+
+### Thông Điệp Giáo Dục
+
+1. **Nhận biết dấu hiệu lừa đảo:** Giá quá rẻ, website không uy tín
+2. **Cảnh giác với thông tin cá nhân:** Không chia sẻ thông tin thanh toán bừa bãi
+3. **Xác minh nguồn:** Kiểm tra review, hỏi ý kiến người lớn
+4. **Hậu quả:** Mất tiền, mất niềm tin, ảnh hưởng tâm lý
+5. **Biến bài học thành hành động:** Chia sẻ kinh nghiệm để bảo vệ người khác
+
+### Kỹ Thuật Kể Chuyện
+
+**Cấu trúc phi tuyến tính:**
+- Trang 1 mở đầu bằng **climax** (khoảnh khắc phát hiện lừa đảo)
+- Trang 2 **flashback** về quá trình bị lừa
+- Trang 3-5 tiếp tục theo timeline forward
+
+**Emotional Journey:**
+```
+Trang 1: Shock & Devastation (climax)
+         ↓
+Trang 2: Hope & Excitement (flashback - trước khi bị lừa)
+         ↓
+Trang 3: Anxiety → Realization (khám phá sự thật)
+         ↓
+Trang 4: Comfort → Learning (được hỗ trợ, học hỏi)
+         ↓
+Trang 5: Empowerment → Action (trao quyền, hành động)
+```
 
 ---
 
@@ -119,64 +178,7 @@ Chúng mình đã tạo các character reference sheets chi tiết cho nhân v�
 
 ---
 
-## 📚 CỐT TRUYỆN: "SẬP BẪY ONLINE"
-
-### Tóm Tắt 5 Trang
-
-1. **Trang 1 - "404 - Hy Vọng Không Tìm Thấy"**  
-   Mai phát hiện website đã biến mất, nhận ra mình bị lừa đảo. Khoảnh khắc đau đớn của sự thật.
-
-2. **Trang 2 - "Cú Nhấp Chuột Vội Vã"**  
-   Flashback: Mai thuyết phục mẹ, háo hức nhập thông tin thanh toán để mua lightstick K-pop giảm giá.
-
-3. **Trang 3 - "Sự Im Lặng Đáng Sợ"**  
-   Một tuần trôi qua không có hàng. Mai kiểm tra và thấy thông báo "404 Not Found" - website đã biến mất.
-
-4. **Trang 4 - "Bài Học Đắt Giá"**  
-   Mẹ và bạn thân An an ủi Mai. Cả ba cùng tìm hiểu về dấu hiệu lừa đảo online.
-
-5. **Trang 5 - "Chia Sẻ Để Bảo Vệ"**  
-   Mai và An tạo bài đăng cảnh báo cho học sinh khác, biến nỗi đau thành bài học ý nghĩa.
-
-### Về Nhân Vật & Bối Cảnh
-
-**Mai - Nữ sinh 16 tuổi:**
-- ✅ Phù hợp tâm lý học sinh THCS & THPT
-- ✅ Tình huống thực tế: Mua lightstick K-pop online bị lừa đảo
-- ✅ Dễ đồng cảm với đối tượng độc giả
-- ✅ Bối cảnh văn hóa Việt Nam chân thực
-
-### Thông Điệp Giáo Dục
-
-1. **Nhận biết dấu hiệu lừa đảo:** Giá quá rẻ, website không uy tín
-2. **Cảnh giác với thông tin cá nhân:** Không chia sẻ thông tin thanh toán bừa bãi
-3. **Xác minh nguồn:** Kiểm tra review, hỏi ý kiến người lớn
-4. **Hậu quả:** Mất tiền, mất niềm tin, ảnh hưởng tâm lý
-5. **Biến bài học thành hành động:** Chia sẻ kinh nghiệm để bảo vệ người khác
-
-### Kỹ Thuật Kể Chuyện
-
-**Cấu trúc phi tuyến tính:**
-- Trang 1 mở đầu bằng **climax** (khoảnh khắc phát hiện lừa đảo)
-- Trang 2 **flashback** về quá trình bị lừa
-- Trang 3-5 tiếp tục theo timeline forward
-
-**Emotional Journey:**
-```
-Trang 1: Shock & Devastation (climax)
-         ↓
-Trang 2: Hope & Excitement (flashback - trước khi bị lừa)
-         ↓
-Trang 3: Anxiety → Realization (khám phá sự thật)
-         ↓
-Trang 4: Comfort → Learning (được hỗ trợ, học hỏi)
-         ↓
-Trang 5: Empowerment → Action (trao quyền, hành động)
-```
-
----
-
-## 🚀 QUY TRÌNH SÁNG TẠO TỰ ĐỘNG VỚI AI
+##  QUY TRÌNH SÁNG TẠO TỰ ĐỘNG VỚI AI
 
 ### Tổng Quan Pipeline
 
@@ -535,3 +537,16 @@ Chúng mình tin rằng **AI là công cụ khuếch đại sáng tạo**, khôn
 
 ---
 
+## 🙏 LỜI CẢM ƠN
+
+Chúng mình xin chân thành cảm ơn **Ban Tổ Chức** đã dành thời gian đọc và đánh giá dự án của team!
+
+Dù sản phẩm còn nhiều điểm chưa hoàn thiện do giới hạn về thời gian, nhưng chúng mình đã cố gắng thể hiện tối đa quy trình tự động hóa sáng tạo truyện tranh bằng AI. Hy vọng cách tiếp cận và ý tưởng của chúng mình có thể đóng góp được phần nào vào việc phát triển công nghệ AI cho giáo dục.
+
+Cảm ơn cuộc thi đã tạo cơ hội để chúng mình học hỏi và thử nghiệm! 🎨✨
+
+---
+
+> 💡 **"AI thực hiện 90%, Con người review 10% - Tương lai của sáng tạo nội dung giáo dục"**
+
+---
