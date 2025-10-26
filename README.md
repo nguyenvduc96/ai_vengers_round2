@@ -25,6 +25,7 @@
 11. [🔮 Tương Lai & Mở Rộng](#-tương-lai--mở-rộng)
 12. [👥 Team AI_VENGERS](#-team-ai_vengers)
 13. [📞 Liên Hệ](#-liên-hệ)
+14. [🙏 Lời Cảm Ơn](#-lời-cảm-ơn)
 
 ---
 
@@ -541,12 +542,6 @@ Chúng mình tin rằng **AI là công cụ khuếch đại sáng tạo**, khôn
 
 Chúng mình xin chân thành cảm ơn **Ban Tổ Chức** đã dành thời gian đọc và đánh giá dự án của team!
 
-Dù sản phẩm còn nhiều điểm chưa hoàn thiện do giới hạn về thời gian, nhưng chúng mình đã cố gắng thể hiện tối đa quy trình tự động hóa sáng tạo truyện tranh bằng AI. Hy vọng cách tiếp cận và ý tưởng của chúng mình có thể đóng góp được phần nào vào việc phát triển công nghệ AI cho giáo dục.
+Dù sản phẩm còn nhiều điểm chưa hoàn thiện do giới hạn về thời gian, nhưng chúng mình đã cố gắng thể hiện tối đa quy trình tự động hóa sáng tạo truyện tranh bằng AI. Hy vọng cách tiếp cận và ý tưởng của chúng mình có thể đóng góp được phần nào vào việc phát triển công nghệ AI hữu ích cho người dùng.
 
-Cảm ơn cuộc thi đã tạo cơ hội để chúng mình học hỏi và thử nghiệm! 🎨✨
-
----
-
-> 💡 **"AI thực hiện 90%, Con người review 10% - Tương lai của sáng tạo nội dung giáo dục"**
-
----
+Cảm ơn cuộc thi đã tạo cơ hội để chúng mình học hỏi và thử nghiệm!
