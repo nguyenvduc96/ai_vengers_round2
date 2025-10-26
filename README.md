@@ -4,7 +4,28 @@
 
 ---
 
-## 📖 GIỚI THIỆU
+## MỤC LỤC
+
+1. [📖 Giới Thiệu](#-giới-thiệu)
+2. [🎯 Sản Phẩm](#-sản-phẩm)
+3. [👥 Character Reference Sheets](#-character-reference-sheets)
+4. [🚀 Quy Trình Sáng Tạo Tự Động với AI](#-quy-trình-sáng-tạo-tự-động-với-ai)
+5. [💡 4 Điểm Đổi Mới Sáng Tạo trong Master Prompt](#-4-điểm-đổi-mới-sáng-tạo-trong-master-prompt)
+   - [📦 Nested Prompts System](#1--nested-prompts-system-hệ-thống-lệnh-lồng-nhau)
+   - [🔗 Cross-Page Continuity](#2--cross-page-continuity-tính-liên-tục-xuyên-trang)
+   - [🛡️ Multi-Layer Safety](#3-️-multi-layer-safety-kiểm-soát-văn-hóa-đa-lớp)
+   - [🎬 Cinematic Control](#4--cinematic-control-kiểm-soát-dàn-dựng--ống-kính)
+6. [🛠️ Cấu Trúc Dự Án](#️-cấu-trúc-dự-án)
+7. [🔧 Công Nghệ Sử Dụng](#-công-nghệ-sử-dụng)
+8. [⚠️ Lưu Ý về Sản Phẩm Nộp](#️-lưu-ý-về-sản-phẩm-nộp)
+9. [🎓 Giá Trị Giáo Dục](#-giá-trị-giáo-dục)
+10. [🔮 Tương Lai & Mở Rộng](#-tương-lai--mở-rộng)
+11. [👥 Team AI_VENGERS](#-team-ai_vengers)
+12. [📞 Liên Hệ](#-liên-hệ)
+
+---
+
+## GIỚI THIỆU
 
 Dự án này sử dụng công nghệ AI tiên tiến để tự động hóa quy trình sáng tạo truyện tranh, từ việc phát triển cốt truyện, thiết kế nhân vật, đến tạo hình ảnh cho từng khung hình. Chúng mình áp dụng quy trình **"AI thực hiện 90% - Con người review 10%"** để tạo ra một bộ truyện tranh hoàn chỉnh về chủ đề cảnh báo lừa đảo trực tuyến.
 
@@ -97,7 +118,7 @@ Chúng mình đã tạo các character reference sheets chi tiết cho nhân v�
 
 ---
 
-## �🚀 QUY TRÌNH SÁNG TẠO TỰ ĐỘNG VỚI AI
+## QUY TRÌNH SÁNG TẠO TỰ ĐỘNG VỚI AI
 
 ### Tổng Quan Pipeline
 
@@ -472,10 +493,8 @@ Quy trình này có thể:
 - 💰 Giảm chi phí sản xuất đáng kể
 
 ### Cải Tiến Cần Thiết
-1. **Text Rendering:** Tích hợp OCR + typography engine cho Vietnamese
-2. **Auto Layout:** Tool tự động compose panels thành trang
-3. **Color Processing:** Pipeline tự động B&W conversion với quality control
-4. **Quality Control:** Automated validation cho cultural accuracy
+1. **Auto Layout:** Tool tự động compose panels thành trang
+2. **Quality Control:** Automated validation cho cultural accuracy
 
 ---
 
